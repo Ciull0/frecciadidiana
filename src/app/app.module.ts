@@ -9,6 +9,11 @@ import { ProductComponent } from './product/product.component';
 import { CategorybarComponent } from './categorybar/categorybar.component';
 import { ServiceWorkerModule } from '@angular/service-worker';
 import { environment } from '../environments/environment';
+import { NavbarComponent } from './navbar/navbar.component';
+import { FooterComponent } from './footer/footer.component';
+import { ProductpageComponent } from './productpage/productpage.component';
+import { CategorypageComponent } from './categorypage/categorypage.component';
+import { TextboxComponent } from './textbox/textbox.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +21,12 @@ import { environment } from '../environments/environment';
     HomepageComponent,
     HeroComponent,
     ProductComponent,
-    CategorybarComponent
+    CategorybarComponent,
+    NavbarComponent,
+    FooterComponent,
+    ProductpageComponent,
+    CategorypageComponent,
+    TextboxComponent
   ],
   imports: [
     BrowserModule,
