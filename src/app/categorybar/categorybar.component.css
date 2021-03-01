@@ -1,10 +1,14 @@
 .row{
-    width: 100%;
+    width: 98%;
     height: max-content;
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
+    margin: 1%;
 }
 
+h1{
+    padding: 1em;
+}
 .col{
     grid-column-start: auto;
     grid-column-end: span 1;
@@ -12,4 +16,12 @@
     align-items: center;
     text-align: center;
     border: 1px solid black;
+}
+
+.sep{
+    height: 0px;
+    border-top: 5px;
+    border-bottom: 0px;
+    border-color: pink;
+    border-style: dotted;
 }
