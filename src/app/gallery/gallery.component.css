@@ -1,0 +1,24 @@
+.gallery{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+}
+.mainPic{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    object-fit: cover;
+}
+.otherPics{
+    text-align: center;
+    height: 50px;
+}
+.imgBig{
+    width: 100%;
+    object-fit: cover;
+}
+.pics{
+    height: 100%;
+}

@@ -14,6 +14,7 @@ import { FooterComponent } from './footer/footer.component';
 import { ProductpageComponent } from './productpage/productpage.component';
 import { CategorypageComponent } from './categorypage/categorypage.component';
 import { TextboxComponent } from './textbox/textbox.component';
+import { GalleryComponent } from './gallery/gallery.component';
 
 @NgModule({
   declarations: [
@@ -26,7 +27,8 @@ import { TextboxComponent } from './textbox/textbox.component';
     FooterComponent,
     ProductpageComponent,
     CategorypageComponent,
-    TextboxComponent
+    TextboxComponent,
+    GalleryComponent
   ],
   imports: [
     BrowserModule,

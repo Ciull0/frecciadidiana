@@ -1,0 +1,9 @@
+.row{
+    min-height: 95vh;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
+}
+.hero-product{
+    min-height: 50%;
+    max-height: 100%;
+}

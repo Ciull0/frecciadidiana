@@ -1,0 +1,12 @@
+.hero-box{
+    height: 500px;
+}
+
+.row{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
+}
+.navbarHider{
+    width: 100%;
+    height: 5%;
+}
