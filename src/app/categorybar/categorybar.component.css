@@ -20,7 +20,7 @@ h1{
 
 .sep{
     height: 0px;
-    border-top: 5px;
+    border-top: 10px;
     border-bottom: 0px;
     border-color: pink;
     border-style: dotted;
