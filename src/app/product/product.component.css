@@ -15,6 +15,10 @@ img{
     object-fit: cover;
 }
 
+.waBtn{
+    color: white !important;
+
+}
 
 .card-body{
     text-align: center;

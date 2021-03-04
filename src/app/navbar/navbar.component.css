@@ -7,6 +7,10 @@
     grid-template-columns: repeat(auto-fit,minmax(50px,1fr));
 }
 
+object{
+    pointer-events: none;
+}
+
 .col{
     grid-column-start: auto;
     grid-column-end: span 1;
