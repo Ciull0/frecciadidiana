@@ -15,6 +15,7 @@ import { ProductpageComponent } from './productpage/productpage.component';
 import { CategorypageComponent } from './categorypage/categorypage.component';
 import { TextboxComponent } from './textbox/textbox.component';
 import { GalleryComponent } from './gallery/gallery.component';
+import { HttpClientModule } from '@angular/common/http'
 
 @NgModule({
   declarations: [
@@ -33,6 +34,7 @@ import { GalleryComponent } from './gallery/gallery.component';
   imports: [
     BrowserModule,
     AppRoutingModule,
+    HttpClientModule,
     ServiceWorkerModule.register('ngsw-worker.js', { enabled: environment.production })
   ],
   providers: [],
