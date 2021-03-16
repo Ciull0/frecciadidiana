@@ -10,7 +10,6 @@ import { UtilService } from '../util.service';
 export class HomepageComponent implements OnInit {
 
   content:any = [];
-  hero:any = {};
 
   constructor(
     private router:ActivatedRoute,
@@ -23,14 +22,6 @@ export class HomepageComponent implements OnInit {
     this.util.getContent("home").then( data=>{
       
       this.content = data;
-      //console.log(data);
-
-      this.hero.pic = this.content.cover;
-      this.hero.title = this.content.title;
-      //console.log(this.hero);
-
-
-
     })
       
 

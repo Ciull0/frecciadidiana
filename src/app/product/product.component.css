@@ -16,8 +16,9 @@ img{
 }
 
 .waBtn{
-    color: white !important;
-
+    display: inline-block;
+    background-color: green;
+    border: 1px solid black;
 }
 
 .card-body{

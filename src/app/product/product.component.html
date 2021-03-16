@@ -1,11 +1,11 @@
 <div class="card">
     <div class="card-img" routerLink="prodotti/prodotto">
-        <img src="assets/img/emma_10.jpg" alt="">
+        <img [src]="data.pic" alt="">
     </div>
     <div class="card-body">
-        <h3 class="card-title" routerLink="prodotti/prodotto">Maglia Carina</h3>
-        <h5 class="card-subtitle" routerLink="prodotti/prodotto">Due parole sulla maglia</h5>
-        <p class="card-price" routerLink="prodotti/prodotto">15 Euro</p>
-        <button class="waBtn" onclick="location.href='https://wa.me/p/3331877643595001/393318324057'" hr class="card-btn">Personalizzala!</button>
+        <h3 class="card-title" [routerLink]="data.link_interno">{{data.title}}</h3>
+        <h5 class="card-subtitle" [routerLink]="data.link_interno">{{data.subtitle}}</h5>
+        <p class="card-price" [routerLink]="data.link_interno">{{data.price}}</p>
+        <a class="waBtn" href="{{data.link_esterno}}" target="_blank" class="card-btn">Personalizzala!</a>
     </div>
 </div>

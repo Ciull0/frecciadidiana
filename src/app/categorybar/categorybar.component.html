@@ -1,9 +1,8 @@
-<h1>Categoria</h1>
+<h1 [routerLink]="[data.link]">{{data.title}}</h1>
 <div class="row">
-    <app-product></app-product>
-    <app-product></app-product>
-    <app-product></app-product>
-    <app-product></app-product>
+    <div *ngFor="let elem of data.content">
+        <app-product [data]="elem"></app-product>
+    </div>
 </div>
 <div class="sep"></div>
 

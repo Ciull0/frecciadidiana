@@ -1,8 +1,25 @@
-<div class="hero-home">
-    <app-hero [data]="hero"></app-hero>
-</div>
-<app-categorybar></app-categorybar>
-<app-categorybar></app-categorybar>
-<app-categorybar></app-categorybar>
-<app-categorybar></app-categorybar>
+<header class="hero-home">
+    <app-hero [data]="content"></app-hero>
+</header>
+<main>
+    <div *ngFor="let elem of content.content">
+        <container-element [ngSwitch]="elem.type">
+            <!-- the same view can be shown in more than one case --> 
+            <article *ngSwitchCase="'hero'">
+                <app-hero [data]="elem"></app-hero>
+            </article>
+            <article *ngSwitchCase="'bar'">
+                <app-categorybar [data]="elem"></app-categorybar>
+            </article>
+            <article *ngSwitchCase="'text'">
+                <app-textbox [data]="elem"></app-textbox>
+            </article>
+            <!-- <some-element *ngSwitchCase="match_expression_2">...</some-element>
+            <some-other-element *ngSwitchCase="match_expression_3">...</some-other-element>
+            default case when there are no matches -->
+            <h1 *ngSwitchDefault><mark>{{elem.title}}</mark></h1>  
+        </container-element>
+        <br><br>
+    </div>
+</main>
 <app-footer></app-footer>

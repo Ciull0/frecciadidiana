@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\ciull\Documents\GitHub\frecciadidiana\src\polyfills.ts */"hN/g");
+module.exports = __webpack_require__(/*! C:\Users\ciull\Documents\Github\frecciadidiana\src\polyfills.ts */"hN/g");
 
 
 /***/ }),
