@@ -7,151 +7,91 @@
     "metatags" : "homepage but also hero",
     "content" : [
         {
-            "type" : "bar",
-            "title":"Categoria 1",
+            "type" : "hero",
+            "cover" :"assets/img/emma_10.jpg",
+            "title":"T-Shirt",
             "subtitle" : "",
             "body" : "",
-            "link": "collezione",
+            "link": "/collezione/tshirt",
             "content":[
-                {
-                    "pic" : "assets/img/emma_2.jpg",
-                    "title" : "Maglia Carina",
-                    "subtitle" : "Due Cose sulla Maglia",
-                    "metatags" : "",
-                    "link" : "collezione/maglia"
-                },
-                {
-                    "pic" : "assets/img/emma_3.jpg",
-                    "title" : "Altra Maglia",
-                    "subtitle" : "Altre info sulla maglia",
-                    "metatags" : "",
-                    "link" : "collezione/maglia"
-                },
-                {
-                    "pic" : "assets/img/emma_4.jpg",
-                    "title" : "Terza Maglietta",
-                    "subtitle" : "Ancora meglio come Maglia",
-                    "metatags" : "",
-                    "link" : "collezione/maglia"
-                },
-                {
-                    "pic" : "assets/img/emma_5.jpg",
-                    "title" : "Che bella Maglia Cazzo",
-                    "subtitle" : "Due Cose sulla Maglia",
-                    "metatags" : "",
-                    "link" : "collezione/maglia"
-                }
+                
             ]
         },
         {
-            "type" : "bar",
-            "title":"Categoria 2",
+            "type" : "hero",
+            "cover" :"assets/img/emma_10.jpg",
+            "title":"Maniche Lunghe",
             "subtitle" : "",
             "body" : "",
-            "link": "collezione",
+            "link": "/collezione/manicheLunghe",
             "content":[
-                {
-                    "pic" : "assets/img/emma_2.jpg",
-                    "title" : "Maglia Carina",
-                    "subtitle" : "Due Cose sulla Maglia",
-                    "metatags" : "",
-                    "link" : "collezione/maglia"
-                },
-                {
-                    "pic" : "assets/img/emma_3.jpg",
-                    "title" : "Altra Maglia",
-                    "subtitle" : "Altre info sulla maglia",
-                    "metatags" : "",
-                    "link" : "collezione/maglia"
-                },
-                {
-                    "pic" : "assets/img/emma_4.jpg",
-                    "title" : "Terza Maglietta",
-                    "subtitle" : "Ancora meglio come Maglia",
-                    "metatags" : "",
-                    "link" : "collezione/maglia"
-                },
-                {
-                    "pic" : "assets/img/emma_5.jpg",
-                    "title" : "Che bella Maglia Cazzo",
-                    "subtitle" : "Due Cose sulla Maglia",
-                    "metatags" : "",
-                    "link" : "collezione/maglia"
-                }
+                
             ]
         },
         {
-            "type" : "bar",
-            "title":"Categoria 3",
+            "type" : "hero",
+            "cover" :"assets/img/emma_10.jpg",
+            "title":"Felpe",
             "subtitle" : "",
             "body" : "",
-            "link": "collezione",
+            "link": "/collezione/Felpe",
             "content":[
-                {
-                    "pic" : "assets/img/emma_2.jpg",
-                    "title" : "Maglia Carina",
-                    "subtitle" : "Due Cose sulla Maglia",
-                    "metatags" : "",
-                    "link" : "collezione/maglia"
-                },
-                {
-                    "pic" : "assets/img/emma_3.jpg",
-                    "title" : "Altra Maglia",
-                    "subtitle" : "Altre info sulla maglia",
-                    "metatags" : "",
-                    "link" : "collezione/maglia"
-                },
-                {
-                    "pic" : "assets/img/emma_4.jpg",
-                    "title" : "Terza Maglietta",
-                    "subtitle" : "Ancora meglio come Maglia",
-                    "metatags" : "",
-                    "link" : "collezione/maglia"
-                },
-                {
-                    "pic" : "assets/img/emma_5.jpg",
-                    "title" : "Che bella Maglia Cazzo",
-                    "subtitle" : "Due Cose sulla Maglia",
-                    "metatags" : "",
-                    "link" : "collezione/maglia"
-                }
+                
             ]
         },
         {
-            "type" : "bar",
-            "title":"Categoria 4",
+            "type" : "hero",
+            "cover" :"assets/img/emma_10.jpg",
+            "title":"Top",
             "subtitle" : "",
             "body" : "",
-            "link": "collezione",
+            "link": "/collezione/top",
             "content":[
-                {
-                    "pic" : "assets/img/emma_2.jpg",
-                    "title" : "Maglia Carina",
-                    "subtitle" : "Due Cose sulla Maglia",
-                    "metatags" : "",
-                    "link" : "collezione/maglia"
-                },
-                {
-                    "pic" : "assets/img/emma_3.jpg",
-                    "title" : "Altra Maglia",
-                    "subtitle" : "Altre info sulla maglia",
-                    "metatags" : "",
-                    "link" : "collezione/maglia"
-                },
-                {
-                    "pic" : "assets/img/emma_4.jpg",
-                    "title" : "Terza Maglietta",
-                    "subtitle" : "Ancora meglio come Maglia",
-                    "metatags" : "",
-                    "link" : "collezione/maglia"
-                },
-                {
-                    "pic" : "assets/img/emma_5.jpg",
-                    "title" : "Che bella Maglia Cazzo",
-                    "subtitle" : "Due Cose sulla Maglia",
-                    "metatags" : "",
-                    "link" : "collezione/maglia"
-                }
+                
+            ]
+        },
+        {
+            "type" : "hero",
+            "cover" :"assets/img/emma_10.jpg",
+            "title":"Calzini",
+            "subtitle" : "",
+            "body" : "",
+            "link": "/collezione/calzini",
+            "content":[
+                
+            ]
+        },
+        {
+            "type" : "hero",
+            "cover" :"assets/img/emma_10.jpg",
+            "title":"Borse",
+            "subtitle" : "",
+            "body" : "",
+            "link": "/collezione/borse",
+            "content":[
+                
+            ]
+        },
+        {
+            "type" : "hero",
+            "cover" :"assets/img/emma_10.jpg",
+            "title":"Fasce",
+            "subtitle" : "",
+            "body" : "",
+            "link": "/collezione/Fasce",
+            "content":[
+                
+            ]
+        },
+        {
+            "type" : "hero",
+            "cover" :"assets/img/emma_10.jpg",
+            "title":"Altro",
+            "subtitle" : "",
+            "body" : "",
+            "link": "/collezione/altro",
+            "content":[
+                
             ]
         }
     ]  

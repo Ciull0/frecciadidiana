@@ -1,6 +1,6 @@
 {
     "id": "home",
-    "cover" : "assets/img/emma_10.jpg",
+    "cover" : "assets/img/emma_12.jpg",
     "title" : "Hero Slogan",
     "subtitle" : "Hero Slogan is also Card Title",
     "url": "/",
@@ -8,7 +8,7 @@
     "content" : [
         {
             "type" : "hero",
-            "cover" :"assets/img/emma_10.jpg",
+            "cover" :"assets/img/emma_12.jpg",
             "title":"T-Shirt",
             "subtitle" : "",
             "body" : "",
@@ -19,7 +19,7 @@
         },
         {
             "type" : "hero",
-            "cover" :"assets/img/emma_10.jpg",
+            "cover" :"assets/img/emma_12.jpg",
             "title":"Maniche Lunghe",
             "subtitle" : "",
             "body" : "",
@@ -30,7 +30,7 @@
         },
         {
             "type" : "hero",
-            "cover" :"assets/img/emma_10.jpg",
+            "cover" :"assets/img/emma_12.jpg",
             "title":"Felpe",
             "subtitle" : "",
             "body" : "",
@@ -41,7 +41,7 @@
         },
         {
             "type" : "hero",
-            "cover" :"assets/img/emma_10.jpg",
+            "cover" :"assets/img/emma_12.jpg",
             "title":"Top",
             "subtitle" : "",
             "body" : "",
@@ -52,7 +52,7 @@
         },
         {
             "type" : "hero",
-            "cover" :"assets/img/emma_10.jpg",
+            "cover" :"assets/img/emma_12.jpg",
             "title":"Calzini",
             "subtitle" : "",
             "body" : "",
@@ -63,7 +63,7 @@
         },
         {
             "type" : "hero",
-            "cover" :"assets/img/emma_10.jpg",
+            "cover" :"assets/img/emma_12.jpg",
             "title":"Borse",
             "subtitle" : "",
             "body" : "",
@@ -74,7 +74,7 @@
         },
         {
             "type" : "hero",
-            "cover" :"assets/img/emma_10.jpg",
+            "cover" :"assets/img/emma_12.jpg",
             "title":"Fasce",
             "subtitle" : "",
             "body" : "",
@@ -85,7 +85,7 @@
         },
         {
             "type" : "hero",
-            "cover" :"assets/img/emma_10.jpg",
+            "cover" :"assets/img/emma_12.jpg",
             "title":"Altro",
             "subtitle" : "",
             "body" : "",

@@ -6,6 +6,12 @@ html,body{
     padding: 0px;
     overflow-x: hidden !important;
 }
+:root {
+    --contrast: #ffde82;
+    --primary: #a0daa9;
+    --nearContrast: #dfe089;
+    --nearPrimary: #bcdf98;
 
+  }
 
 /*# sourceMappingURL=styles.css.map*/

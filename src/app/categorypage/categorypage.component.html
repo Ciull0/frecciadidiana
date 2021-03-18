@@ -1,38 +1,5 @@
 <div class="row">
-    <div class="hero-product">
-        <app-hero></app-hero>
-    </div>
-    <div class="hero-product">
-        <app-hero></app-hero>
-    </div>
-    <div class="hero-product">
-        <app-hero></app-hero>
-    </div>
-    <div class="hero-product">
-        <app-hero></app-hero>
-    </div>
-    <div class="hero-product">
-        <app-hero></app-hero>
-    </div>
-    <div class="hero-product">
-        <app-hero></app-hero>
-    </div>
-    <div class="hero-product">
-        <app-hero></app-hero>
-    </div>
-    <div class="hero-product">
-        <app-hero></app-hero>
-    </div>
-    <div class="hero-product">
-        <app-hero></app-hero>
-    </div>
-    <div class="hero-product">
-        <app-hero></app-hero>
-    </div>
-    <div class="hero-product">
-        <app-hero></app-hero>
-    </div>
-    <div class="hero-product">
-        <app-hero></app-hero>
+    <div *ngFor="let elem of content.content" class="hero-product">
+        <app-hero [data]="elem"></app-hero>
     </div>
 </div>

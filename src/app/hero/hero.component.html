@@ -1,4 +1,4 @@
-<div class="hero">
-    <img [src]="data.cover" alt="">
-    <h1 class="title">{{data.title}}</h1>
+<div class="hero" [routerLink]="data.link">
+    <img [routerLink]="data.link" [src]="data.cover" alt="">
+    <h1 [routerLink]="data.link" class="title">{{data.title}}</h1>
 </div>

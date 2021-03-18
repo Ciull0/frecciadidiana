@@ -1,4 +1,3 @@
-import { hostViewClassName } from '@angular/compiler';
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 import { CategorypageComponent } from './categorypage/categorypage.component';

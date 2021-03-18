@@ -18,12 +18,12 @@ object{
     align-items: center;
     text-align: center;
     border: 1px solid black;
-    background-color: pink;
+    background-color: var(--primary);
     overflow: hidden;
 }
 
 .nav-logo{
     height: 100%;
     object-fit: cover;
-    fill: white;
+    color: white;
 }
