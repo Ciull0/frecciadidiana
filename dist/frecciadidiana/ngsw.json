@@ -1,0 +1,133 @@
+{
+  "configVersion": 1,
+  "timestamp": 1616453446280,
+  "index": "/frecciadidiana/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/frecciadidiana/favicon.ico",
+        "/frecciadidiana/index.html",
+        "/frecciadidiana/main.d2cd5cb8c9e76e0f69bc.js",
+        "/frecciadidiana/manifest.webmanifest",
+        "/frecciadidiana/polyfills.70ffb02a82cc06d3b0cb.js",
+        "/frecciadidiana/runtime.7b63b9fd40098a2e8207.js",
+        "/frecciadidiana/styles.80d71afb91099b0073fe.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/frecciadidiana/assets/content/amati.json",
+        "/frecciadidiana/assets/content/collezione.json",
+        "/frecciadidiana/assets/content/home.json",
+        "/frecciadidiana/assets/content/navbar.json",
+        "/frecciadidiana/assets/content/tshirt.json",
+        "/frecciadidiana/assets/icons/android-launchericon-96-96.png",
+        "/frecciadidiana/assets/icons/icon-144x144.png",
+        "/frecciadidiana/assets/icons/icon-192x192.png",
+        "/frecciadidiana/assets/icons/icon-48x48.png",
+        "/frecciadidiana/assets/icons/icon-512x512.png",
+        "/frecciadidiana/assets/icons/icon-72x72.png",
+        "/frecciadidiana/assets/img/emma.jpg",
+        "/frecciadidiana/assets/img/emma_10.jpg",
+        "/frecciadidiana/assets/img/emma_11.jpg",
+        "/frecciadidiana/assets/img/emma_12.jpg",
+        "/frecciadidiana/assets/img/emma_13.jpg",
+        "/frecciadidiana/assets/img/emma_14.jpg",
+        "/frecciadidiana/assets/img/emma_15.jpg",
+        "/frecciadidiana/assets/img/emma_16.jpg",
+        "/frecciadidiana/assets/img/emma_17.jpg",
+        "/frecciadidiana/assets/img/emma_18.jpg",
+        "/frecciadidiana/assets/img/emma_19.jpg",
+        "/frecciadidiana/assets/img/emma_2.jpg",
+        "/frecciadidiana/assets/img/emma_3.jpg",
+        "/frecciadidiana/assets/img/emma_4.jpg",
+        "/frecciadidiana/assets/img/emma_5.jpg",
+        "/frecciadidiana/assets/img/emma_6.jpg",
+        "/frecciadidiana/assets/img/emma_7.jpg",
+        "/frecciadidiana/assets/img/emma_8.jpg",
+        "/frecciadidiana/assets/img/emma_9.jpg",
+        "/frecciadidiana/assets/logos/connect.svg",
+        "/frecciadidiana/assets/logos/favorite.svg",
+        "/frecciadidiana/assets/logos/home.svg",
+        "/frecciadidiana/assets/logos/storefront.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/frecciadidiana/assets/content/amati.json": "4a76b545dfdf6150f6ac2111eb1632f2d98de48e",
+    "/frecciadidiana/assets/content/collezione.json": "5641cee42a3f6ff61a4bca9545432afbdebb0526",
+    "/frecciadidiana/assets/content/home.json": "14a239ed09b73d49b0fd9d63f0561f0ae3034700",
+    "/frecciadidiana/assets/content/navbar.json": "b424b6c179580c08c7f789b9e106e699e953a2a3",
+    "/frecciadidiana/assets/content/tshirt.json": "6ee987401e71c8e1b7d125834c1d69fe9467bb63",
+    "/frecciadidiana/assets/icons/android-launchericon-96-96.png": "6aba98af8c8fae2332803f201524cd1c20dbc2ba",
+    "/frecciadidiana/assets/icons/icon-144x144.png": "c32888751075aeb95b7ddcede932dee9b4134018",
+    "/frecciadidiana/assets/icons/icon-192x192.png": "18a21be1546347e3ee454296740bbde7664c5349",
+    "/frecciadidiana/assets/icons/icon-48x48.png": "348451bea83c3bf0cd1fdbe97d53c2106ed7e50d",
+    "/frecciadidiana/assets/icons/icon-512x512.png": "8b7ca08858cd4a52e20f085bc2beea5ae0ad3011",
+    "/frecciadidiana/assets/icons/icon-72x72.png": "07fce03bf00be9bec87723c4883f29722e840718",
+    "/frecciadidiana/assets/img/emma.jpg": "4228e4cfa4100f819a3720ccea327a2b1dc2cff4",
+    "/frecciadidiana/assets/img/emma_10.jpg": "9020ed23762d34248c219e67749a7a05f1bdb31a",
+    "/frecciadidiana/assets/img/emma_11.jpg": "2c4396f574b8a2900e272a68e306fa125987b009",
+    "/frecciadidiana/assets/img/emma_12.jpg": "4d5ca474cb7236e7a2c1c8708a0e88f3ed4f2042",
+    "/frecciadidiana/assets/img/emma_13.jpg": "879383772d9fa8e73c3c2686302850b391c85ca9",
+    "/frecciadidiana/assets/img/emma_14.jpg": "fb9f2aa0cf5cf18ed401d13581932a8b404ef122",
+    "/frecciadidiana/assets/img/emma_15.jpg": "b2e14c29e8bbe1d18e12461752571af4a9d31f4d",
+    "/frecciadidiana/assets/img/emma_16.jpg": "3a571a6ef4eed34ed0caece223638d62628f726e",
+    "/frecciadidiana/assets/img/emma_17.jpg": "c15bd00cfcfd7ecea8e83190efd33f3f3bca67e5",
+    "/frecciadidiana/assets/img/emma_18.jpg": "0ebdedded5a367a6f9beff99aeb6f7823e2f9af5",
+    "/frecciadidiana/assets/img/emma_19.jpg": "c350179ff7353e316250b0d583a24ca2402d7786",
+    "/frecciadidiana/assets/img/emma_2.jpg": "c9f4bba55279acde1ae6286693269b722ff2878d",
+    "/frecciadidiana/assets/img/emma_3.jpg": "f25f0c6a8a213ae0f2da9c67bbad17501fbda414",
+    "/frecciadidiana/assets/img/emma_4.jpg": "ea5e951323a4f2f0b0724234b67f5f82af9b7599",
+    "/frecciadidiana/assets/img/emma_5.jpg": "65646f2f8e86c4627639d3b4390a8a3e0e598a0e",
+    "/frecciadidiana/assets/img/emma_6.jpg": "38a0d6ec73dc3373cd000dcad40aece23e05d606",
+    "/frecciadidiana/assets/img/emma_7.jpg": "8ca14731cb2ced073bbcd06abaef7b7a165e7eb3",
+    "/frecciadidiana/assets/img/emma_8.jpg": "36a900aff2a22c7752e0537456f39bf2dfd9af00",
+    "/frecciadidiana/assets/img/emma_9.jpg": "4cc8d8ac5d7d3a10101a9bee6655bc7df86216a6",
+    "/frecciadidiana/assets/logos/connect.svg": "d58478112b7c797666ef8663f6da8d82a61e0100",
+    "/frecciadidiana/assets/logos/favorite.svg": "f31c3de7a6c643afefd25e31493003ce85c97bb0",
+    "/frecciadidiana/assets/logos/home.svg": "feff8b9a720fa48f2ccbe9ffd69f188ac06878fc",
+    "/frecciadidiana/assets/logos/storefront.svg": "e938383967ecd9688ef109f228df6330a302bbb5",
+    "/frecciadidiana/favicon.ico": "634773c86a7d03719bb1aa14c75469f0404c207d",
+    "/frecciadidiana/index.html": "e8266b51d7c4ef06ff3d3bbf9a6624ffd5f81003",
+    "/frecciadidiana/main.d2cd5cb8c9e76e0f69bc.js": "e5e38c1c5b9c9f4c29711d42ac4fff60db874030",
+    "/frecciadidiana/manifest.webmanifest": "1b57f19e4b55e26ffe4063f7ef3435a108838764",
+    "/frecciadidiana/polyfills.70ffb02a82cc06d3b0cb.js": "763cd3b34dfa4600ebb9d9588ec7116988e98920",
+    "/frecciadidiana/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/frecciadidiana/styles.80d71afb91099b0073fe.css": "59fb8966926b9a4a91f2eda9d68576a53fafc792"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
