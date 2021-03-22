@@ -1,6 +1,8 @@
 .card{
     margin: 1%;
     width: 98%;
+    background-color: var(--nearPrimary);
+    border-radius: 10%;
 }
 
 
@@ -8,10 +10,12 @@
     width: 100%;
     height: 60%;
     object-fit: cover;
+    border-radius: 10%;
 }
 img{
     width: 100%;
     height: 100%;
+    border-radius: 10%;
     object-fit: cover;
 }
 

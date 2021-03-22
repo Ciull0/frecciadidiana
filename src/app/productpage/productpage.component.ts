@@ -23,6 +23,7 @@ export class ProductpageComponent implements OnInit {
       this.util.getContent(url.prodotto).then( data=>{
         
         this.content = data;
+        console.log(this.content)
 
       })
       

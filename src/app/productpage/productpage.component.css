@@ -1,12 +1,13 @@
 .hero-box{
     height: 300px;
 }
-
+.content{
+    height: 95%;
+}
 .row{
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
     max-height: 50rem;
-
 }
 .gallery{
     max-height: 100%;

@@ -5,6 +5,7 @@
 }
 .row{
     min-height: 95vh;
+    max-height: 50%;
     display: grid;
     justify-content: center;
     gap: 0.5rem;

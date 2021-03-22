@@ -1,6 +1,6 @@
 <div class="card">
-    <div class="card-img" routerLink="prodotti/prodotto">
-        <img [src]="data.pic" alt="">
+    <div class="card-img" [routerLink]="data.link_interno">
+        <img loading="lazy" [src]="data.pic" alt="">
     </div>
     <div class="card-body">
         <h3 class="card-title" [routerLink]="data.link_interno">{{data.title}}</h3>

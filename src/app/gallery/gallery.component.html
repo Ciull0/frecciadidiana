@@ -1,13 +1,9 @@
 <div class="gallery">
     <div class="mainPic">
-        <img class="imgBig" [src]="'assets/img/emma_2.jpg'" alt="">
+        <img class="imgBig" [src]="mainpic" alt="">
     </div>
     <div class="otherPics">
-        <img [src]="'assets/img/emma_3.jpg'" class="pics" alt="">
-        <img [src]="'assets/img/emma_3.jpg'" class="pics" alt="">
-        <img [src]="'assets/img/emma_3.jpg'" class="pics" alt="">
-        <img [src]="'assets/img/emma_3.jpg'" class="pics" alt="">
-        <img [src]="'assets/img/emma_3.jpg'" class="pics" alt="">
-        <img [src]="'assets/img/emma_3.jpg'" class="pics" alt="">
+        <img  [src]="data.cover" class="pics" alt="">
+        <img *ngFor="let img of data.content" (click)="mainpic = img.pic" [src]="img.pic" class="pics" alt="">
     </div>
 </div>

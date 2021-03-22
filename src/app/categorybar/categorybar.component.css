@@ -7,7 +7,7 @@
 }
 
 h1{
-    padding: 1em;
+    padding-left: 20px;
 }
 .col{
     grid-column-start: auto;
@@ -17,11 +17,15 @@ h1{
     text-align: center;
     border: 1px solid black;
 }
-
+.bar{
+    background-color: var(--contrast);
+    border-radius: 30px;
+    padding: 5px;
+}
 .sep{
     height: 0px;
     border-top: 10px;
     border-bottom: 0px;
-    border-color: var(--nearPrimary);
+    border-color: var(--primary);
     border-style: dotted;
 }

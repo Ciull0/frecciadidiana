@@ -1,11 +1,13 @@
-<div class="hero-box">
-    <app-hero></app-hero>
-</div>
-<div class="row">
-    <div class="gallery">
-        <app-gallery></app-gallery>
+<content class="content">
+    <!-- <div class="hero-box">
+        <app-hero [data]="content"></app-hero>
+    </div> -->
+    <div class="row">
+        <div class="gallery">
+            <app-gallery [data]="content.content[0]"></app-gallery>
+        </div>
+        <article class="text">
+            <app-textbox [data]="content.content[1]"></app-textbox>
+        </article>
     </div>
-    <div class="text">
-        <app-textbox></app-textbox>
-    </div>
-</div>
+</content>
