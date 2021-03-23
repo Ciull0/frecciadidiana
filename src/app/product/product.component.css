@@ -1,8 +1,10 @@
 .card{
-    margin: 1%;
-    width: 98%;
-    background-color: var(--nearPrimary);
-    border-radius: 10%;
+    padding: 5%;
+    padding-bottom: 20px;
+    background-color: var(--primary);
+    border-radius: 10px;
+    
+    box-shadow: 10px 20px var(--nearPrimary);
 }
 
 
@@ -19,10 +21,35 @@ img{
     object-fit: cover;
 }
 
+.card-title{
+    display: inline-block;
+    margin: 0px;
+    margin-top: 10px;
+    padding: 5px;
+    text-align: center;
+    font-size: 1.7rem;
+    background-color: var(--contrast);
+    box-shadow: 5px 10px var(--nearContrast);
+}
+.card-subtitle{
+    text-align: center;
+    font-size: 1rem;
+}
+.card-price{
+    text-align: center;
+    font-size: 1.2rem;
+}
+
 .waBtn{
     display: inline-block;
-    background-color: green;
-    border: 1px solid black;
+    text-decoration: none;
+    color: black;
+    font-size: 1.2rem;
+    padding: 0.5rem;
+    border-radius: 5px;
+    transform: skew(355deg,355deg);
+    box-shadow: 5px 10px var(--nearContrast);
+    background-color: var(--contrast);
 }
 
 .card-body{

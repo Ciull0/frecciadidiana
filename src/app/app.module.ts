@@ -15,7 +15,8 @@ import { ProductpageComponent } from './productpage/productpage.component';
 import { CategorypageComponent } from './categorypage/categorypage.component';
 import { TextboxComponent } from './textbox/textbox.component';
 import { GalleryComponent } from './gallery/gallery.component';
-import { HttpClientModule } from '@angular/common/http'
+import { HttpClientModule } from '@angular/common/http';
+import { ContactpageComponent } from './contactpage/contactpage.component'
 
 @NgModule({
   declarations: [
@@ -29,7 +30,8 @@ import { HttpClientModule } from '@angular/common/http'
     ProductpageComponent,
     CategorypageComponent,
     TextboxComponent,
-    GalleryComponent
+    GalleryComponent,
+    ContactpageComponent
   ],
   imports: [
     BrowserModule,

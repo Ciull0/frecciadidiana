@@ -1,3 +1,7 @@
 .hero-home{
     height: 500px;
 }
+main{
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}

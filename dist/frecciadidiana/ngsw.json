@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1616453446280,
+  "timestamp": 1616540107272,
   "index": "/frecciadidiana/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/frecciadidiana/favicon.ico",
         "/frecciadidiana/index.html",
-        "/frecciadidiana/main.d2cd5cb8c9e76e0f69bc.js",
+        "/frecciadidiana/main.b6b959166586a5ef790e.js",
         "/frecciadidiana/manifest.webmanifest",
         "/frecciadidiana/polyfills.70ffb02a82cc06d3b0cb.js",
         "/frecciadidiana/runtime.7b63b9fd40098a2e8207.js",
@@ -35,6 +35,7 @@
         "/frecciadidiana/assets/content/navbar.json",
         "/frecciadidiana/assets/content/tshirt.json",
         "/frecciadidiana/assets/icons/android-launchericon-96-96.png",
+        "/frecciadidiana/assets/icons/apple-touch-icon.png",
         "/frecciadidiana/assets/icons/icon-144x144.png",
         "/frecciadidiana/assets/icons/icon-192x192.png",
         "/frecciadidiana/assets/icons/icon-48x48.png",
@@ -71,10 +72,11 @@
   "hashTable": {
     "/frecciadidiana/assets/content/amati.json": "4a76b545dfdf6150f6ac2111eb1632f2d98de48e",
     "/frecciadidiana/assets/content/collezione.json": "5641cee42a3f6ff61a4bca9545432afbdebb0526",
-    "/frecciadidiana/assets/content/home.json": "14a239ed09b73d49b0fd9d63f0561f0ae3034700",
+    "/frecciadidiana/assets/content/home.json": "b44338edcff320f5a5192562808fffe53abdba25",
     "/frecciadidiana/assets/content/navbar.json": "b424b6c179580c08c7f789b9e106e699e953a2a3",
     "/frecciadidiana/assets/content/tshirt.json": "6ee987401e71c8e1b7d125834c1d69fe9467bb63",
     "/frecciadidiana/assets/icons/android-launchericon-96-96.png": "6aba98af8c8fae2332803f201524cd1c20dbc2ba",
+    "/frecciadidiana/assets/icons/apple-touch-icon.png": "7b4c42acf16e44a9ecafca66b72a3037e08dabd7",
     "/frecciadidiana/assets/icons/icon-144x144.png": "c32888751075aeb95b7ddcede932dee9b4134018",
     "/frecciadidiana/assets/icons/icon-192x192.png": "18a21be1546347e3ee454296740bbde7664c5349",
     "/frecciadidiana/assets/icons/icon-48x48.png": "348451bea83c3bf0cd1fdbe97d53c2106ed7e50d",
@@ -104,9 +106,9 @@
     "/frecciadidiana/assets/logos/home.svg": "feff8b9a720fa48f2ccbe9ffd69f188ac06878fc",
     "/frecciadidiana/assets/logos/storefront.svg": "e938383967ecd9688ef109f228df6330a302bbb5",
     "/frecciadidiana/favicon.ico": "634773c86a7d03719bb1aa14c75469f0404c207d",
-    "/frecciadidiana/index.html": "e8266b51d7c4ef06ff3d3bbf9a6624ffd5f81003",
-    "/frecciadidiana/main.d2cd5cb8c9e76e0f69bc.js": "e5e38c1c5b9c9f4c29711d42ac4fff60db874030",
-    "/frecciadidiana/manifest.webmanifest": "1b57f19e4b55e26ffe4063f7ef3435a108838764",
+    "/frecciadidiana/index.html": "27b7d5eb4795f4228aedaaf90c7b8041e1b906a5",
+    "/frecciadidiana/main.b6b959166586a5ef790e.js": "dbe7f419b8c1d9b84bb8190f3892592cb8e3d011",
+    "/frecciadidiana/manifest.webmanifest": "b09137d93d094e20bff80e68b2a15312a886a738",
     "/frecciadidiana/polyfills.70ffb02a82cc06d3b0cb.js": "763cd3b34dfa4600ebb9d9588ec7116988e98920",
     "/frecciadidiana/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/frecciadidiana/styles.80d71afb91099b0073fe.css": "59fb8966926b9a4a91f2eda9d68576a53fafc792"

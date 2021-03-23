@@ -23,4 +23,5 @@ img{
     padding: 20px;
     transform: skew(350deg,350deg);
     font-size: 2rem;
+    box-shadow: 10px 20px var(--nearContrast);
 }

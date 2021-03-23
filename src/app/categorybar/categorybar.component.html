@@ -1,7 +1,7 @@
 <div class="bar">
-    <h1 [routerLink]="[data.link]">{{data.title}}</h1>
+    <h1 class="categoryname" [routerLink]="[data.link]">{{data.title}}</h1>
     <div class="row">
-        <div *ngFor="let elem of data.content">
+        <div class="cardBox" *ngFor="let elem of data.content">
             <app-product [data]="elem"></app-product>
         </div>
     </div>
