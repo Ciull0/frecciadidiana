@@ -1,11 +1,13 @@
 {
   "name": "Freccia di Diana",
-  "short_name": "Freccia di Diana",
-  "theme_color": "#1976d2",
-  "background_color": "#fafafa",
+  "description": "Shop di Abbiegliamento Tie-Dye Pesonalizzato, per tutti i gusti e le tasche",
+  "short_name": "Diana",
+  "theme_color": "#a0daa9",
+  "background_color": "#ffde82",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
+  "prefer_related_applications": false,
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",

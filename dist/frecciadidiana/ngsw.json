@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1616586099403,
+  "timestamp": 1616602287414,
   "index": "/frecciadidiana/index.html",
   "assetGroups": [
     {
@@ -23,7 +23,7 @@
     },
     {
       "name": "assets",
-      "installMode": "lazy",
+      "installMode": "prefetch",
       "updateMode": "prefetch",
       "cacheQueryOptions": {
         "ignoreVary": true
@@ -106,9 +106,9 @@
     "/frecciadidiana/assets/logos/home.svg": "feff8b9a720fa48f2ccbe9ffd69f188ac06878fc",
     "/frecciadidiana/assets/logos/storefront.svg": "e938383967ecd9688ef109f228df6330a302bbb5",
     "/frecciadidiana/favicon.ico": "634773c86a7d03719bb1aa14c75469f0404c207d",
-    "/frecciadidiana/index.html": "7db4c410b91a81f6c975b9841cb9fa4bfe677407",
+    "/frecciadidiana/index.html": "2779785a2f55acf33431eb7781420573b284862f",
     "/frecciadidiana/main.cae456d70d043329f4af.js": "2910ba112ad5d48b72f1e0b6c07a4c0d4d656ebf",
-    "/frecciadidiana/manifest.webmanifest": "b09137d93d094e20bff80e68b2a15312a886a738",
+    "/frecciadidiana/manifest.webmanifest": "3e1976ea318c1469e7108c22d578dc74d6120790",
     "/frecciadidiana/polyfills.70ffb02a82cc06d3b0cb.js": "763cd3b34dfa4600ebb9d9588ec7116988e98920",
     "/frecciadidiana/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/frecciadidiana/styles.80d71afb91099b0073fe.css": "59fb8966926b9a4a91f2eda9d68576a53fafc792"
