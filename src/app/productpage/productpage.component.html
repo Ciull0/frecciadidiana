@@ -3,11 +3,15 @@
         <app-hero [data]="content"></app-hero>
     </div> -->
     <div class="row">
-        <div class="gallery">
+        <div class="elem">
             <app-gallery [data]="content.content[0]"></app-gallery>
         </div>
-        <article class="text">
+        <article class="elem text">
             <app-textbox [data]="content.content[1]"></app-textbox>
         </article>
+    </div>
+    <br><br>
+    <div class="raccomandation text">
+        <app-categorybar [data]="content.content[3]"></app-categorybar>
     </div>
 </content>

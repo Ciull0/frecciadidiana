@@ -63,7 +63,7 @@
                     "pic" : "assets/img/emma_2.jpg",
                     "title" : "Maglia Carina",
                     "subtitle" : "Due Cose sulla Maglia",
-                    "body":"Nunc efficitur mi ac massa aliquam laoreet. Nullam ex purus, ultricies vel bibendum quis, rutrum molestie dui. Vestibulum et leo eros. Sed sed tortor in justo dignissim semper. Praesent vestibulum, turpis nec aliquet sodales, justo nisl convallis sem, nec tristique nulla lectus sed nisl. Etiam malesuada ex ut libero placerat, eu tincidunt tortor sagittis. Sed blandit justo nec consequat viverra. Nunc euismod nisl gravida convallis porta. Maecenas et faucibus erat. Nulla eget tortor cursus, venenatis turpis sit amet, accumsan tortor. Praesent magna nibh, commodo sit amet porttitor vel, fermentum id dolor. Etiam gravida tellus neque, sit amet lacinia elit condimentum a. Mauris ultricies libero enim, in elementum metus convallis eget. Vivamus aliquam venenatis nunc sit amet dictum. Pellentesque nec massa ut tellus mollis luctus rhoncus eget augue. Proin auctor mi bibendum ligula vehicula auctor.",
+                    "body":"Nunc efficitur mi ac massa aliquam laoreet. Nullam ex purus, ultricies vel bibendum quis, rutrum molestie dui. Vestibulum et leo eros. Sed sed tortor in justo dignissim semper. Praesent vestibulum, turpis nec aliquet sodales, justo nisl convallis sem, nec tristique nulla lectus sed nisl. Etiam malesuada ex ut libero placerat, eu tincidunt tortor sagittis. Sed blandit justo nec consequat viverra. Nunc euismod nisl gravida convallis porta. Maecenas et faucibus erat. Nulla eget tortor cursus, venenatis turpis sit amet, accumsan tortor. Praesent magna nibh, commodo sit amet porttitor vel, fermentum id dolor. ",
                     "footer": "Questo è un footer a caso",
                     "metatags" : "",
                     "link" : "collezione/maglia"
@@ -112,6 +112,60 @@
                     "footer": "Questo è un footer a caso",
                     "metatags" : "",
                     "link" : "collezione/maglia"
+                }
+            ]
+        },
+        {
+            "type" : "bar",
+            "cover" : "assets/img/emma_10.jpg",
+            "title":"Potrebbe Piacerti",
+            "subtitle" : "",
+            "body" : "",
+            "link": "collezione",
+            "content":[
+                {
+                    "pic" : "assets/img/emma_2.jpg",
+                    "title" : "Maglietta Carina",
+                    "price" : "15.5",
+                    "subtitle" : "Due Cose sulla T-Shirt",
+                    "body" : "Proin quis neque leo. Duis id dignissim dolor. Duis at metus sit amet sapien ultrices vulputate ut vitae odio. Nullam aliquet nunc et urna aliquam, quis imperdiet elit dapibus. Integer laoreet, nibh et ullamcorper sodales, ex justo commodo turpis, eget feugiat dui turpis quis nisl. Suspendisse aliquam faucibus massa, id egestas mauris. Vivamus sit amet tempus ante. Maecenas rutrum dolor orci, quis pulvinar neque commodo ac. Vivamus at mollis diam. Pellentesque tincidunt metus sed dapibus iaculis. Aenean euismod eget nunc in dapibus. Aliquam eu dui a dolor hendrerit convallis id vitae neque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur quis massa eu sapien mollis faucibus ut lacinia nulla. Morbi mattis nulla vel fermentum sagittis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+                    "footer" : "Piccolo Footer",
+                    "metatags" : "",
+                    "link_interno" : "collezione/tshirt",
+                    "link_esterno" : "https://wa.me/p/3331877643595001/393318324057"
+                },
+                {
+                    "pic" : "assets/img/emma_3.jpg",
+                    "title" : "Altra tshirt",
+                    "price" : "12.6",
+                    "subtitle" : "Altre info sulla tshirt",
+                    "body" : "Proin quis neque leo. Duis id dignissim dolor. Duis at metus sit amet sapien ultrices vulputate ut vitae odio. Nullam aliquet nunc et urna aliquam, quis imperdiet elit dapibus. Integer laoreet, nibh et ullamcorper sodales, ex justo commodo turpis, eget feugiat dui turpis quis nisl. Suspendisse aliquam faucibus massa, id egestas mauris. Vivamus sit amet tempus ante. Maecenas rutrum dolor orci, quis pulvinar neque commodo ac. Vivamus at mollis diam. Pellentesque tincidunt metus sed dapibus iaculis. Aenean euismod eget nunc in dapibus. Aliquam eu dui a dolor hendrerit convallis id vitae neque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur quis massa eu sapien mollis faucibus ut lacinia nulla. Morbi mattis nulla vel fermentum sagittis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+                    "footer" : "Piccolo Footer",
+                    "metatags" : "",
+                    "link_interno" : "collezione/tshirt",
+                    "link_esterno" : "https://wa.me/p/3331877643595001/393318324057"
+                },
+                {
+                    "pic" : "assets/img/emma_4.jpg",
+                    "title" : "Terza tshirt",
+                    "price" : "21.3",
+                    "subtitle" : "Ancora meglio come tshirt",
+                    "body" : "Proin quis neque leo. Duis id dignissim dolor. Duis at metus sit amet sapien ultrices vulputate ut vitae odio. Nullam aliquet nunc et urna aliquam, quis imperdiet elit dapibus. Integer laoreet, nibh et ullamcorper sodales, ex justo commodo turpis, eget feugiat dui turpis quis nisl. Suspendisse aliquam faucibus massa, id egestas mauris. Vivamus sit amet tempus ante. Maecenas rutrum dolor orci, quis pulvinar neque commodo ac. Vivamus at mollis diam. Pellentesque tincidunt metus sed dapibus iaculis. Aenean euismod eget nunc in dapibus. Aliquam eu dui a dolor hendrerit convallis id vitae neque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur quis massa eu sapien mollis faucibus ut lacinia nulla. Morbi mattis nulla vel fermentum sagittis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+                    "footer" : "Piccolo Footer",
+                    "metatags" : "",
+                    "link_interno" : "collezione/tshirt",
+                    "link_esterno" : "https://wa.me/p/3331877643595001/393318324057"
+                },
+                {
+                    "pic" : "assets/img/emma_5.jpg",
+                    "title" : "T-Shirt Stupenda",
+                    "price" : "69.42",
+                    "subtitle" : "Due Cose sulla T-Shirt",
+                    "body" : "Proin quis neque leo. Duis id dignissim dolor. Duis at metus sit amet sapien ultrices vulputate ut vitae odio. Nullam aliquet nunc et urna aliquam, quis imperdiet elit dapibus. Integer laoreet, nibh et ullamcorper sodales, ex justo commodo turpis, eget feugiat dui turpis quis nisl. Suspendisse aliquam faucibus massa, id egestas mauris. Vivamus sit amet tempus ante. Maecenas rutrum dolor orci, quis pulvinar neque commodo ac. Vivamus at mollis diam. Pellentesque tincidunt metus sed dapibus iaculis. Aenean euismod eget nunc in dapibus. Aliquam eu dui a dolor hendrerit convallis id vitae neque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur quis massa eu sapien mollis faucibus ut lacinia nulla. Morbi mattis nulla vel fermentum sagittis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+                    "footer" : "Piccolo Footer",
+                    "metatags" : "",
+                    "link_interno" : "collezione/tshirt",
+                    "link_esterno" : "https://wa.me/p/3331877643595001/393318324057"
                 }
             ]
         }

@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1616540107272,
+  "timestamp": 1616586099403,
   "index": "/frecciadidiana/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/frecciadidiana/favicon.ico",
         "/frecciadidiana/index.html",
-        "/frecciadidiana/main.b6b959166586a5ef790e.js",
+        "/frecciadidiana/main.cae456d70d043329f4af.js",
         "/frecciadidiana/manifest.webmanifest",
         "/frecciadidiana/polyfills.70ffb02a82cc06d3b0cb.js",
         "/frecciadidiana/runtime.7b63b9fd40098a2e8207.js",
@@ -74,7 +74,7 @@
     "/frecciadidiana/assets/content/collezione.json": "5641cee42a3f6ff61a4bca9545432afbdebb0526",
     "/frecciadidiana/assets/content/home.json": "b44338edcff320f5a5192562808fffe53abdba25",
     "/frecciadidiana/assets/content/navbar.json": "b424b6c179580c08c7f789b9e106e699e953a2a3",
-    "/frecciadidiana/assets/content/tshirt.json": "6ee987401e71c8e1b7d125834c1d69fe9467bb63",
+    "/frecciadidiana/assets/content/tshirt.json": "46a8ea6f90e00d28e6bb39937af886af6f0614a6",
     "/frecciadidiana/assets/icons/android-launchericon-96-96.png": "6aba98af8c8fae2332803f201524cd1c20dbc2ba",
     "/frecciadidiana/assets/icons/apple-touch-icon.png": "7b4c42acf16e44a9ecafca66b72a3037e08dabd7",
     "/frecciadidiana/assets/icons/icon-144x144.png": "c32888751075aeb95b7ddcede932dee9b4134018",
@@ -106,8 +106,8 @@
     "/frecciadidiana/assets/logos/home.svg": "feff8b9a720fa48f2ccbe9ffd69f188ac06878fc",
     "/frecciadidiana/assets/logos/storefront.svg": "e938383967ecd9688ef109f228df6330a302bbb5",
     "/frecciadidiana/favicon.ico": "634773c86a7d03719bb1aa14c75469f0404c207d",
-    "/frecciadidiana/index.html": "27b7d5eb4795f4228aedaaf90c7b8041e1b906a5",
-    "/frecciadidiana/main.b6b959166586a5ef790e.js": "dbe7f419b8c1d9b84bb8190f3892592cb8e3d011",
+    "/frecciadidiana/index.html": "7db4c410b91a81f6c975b9841cb9fa4bfe677407",
+    "/frecciadidiana/main.cae456d70d043329f4af.js": "2910ba112ad5d48b72f1e0b6c07a4c0d4d656ebf",
     "/frecciadidiana/manifest.webmanifest": "b09137d93d094e20bff80e68b2a15312a886a738",
     "/frecciadidiana/polyfills.70ffb02a82cc06d3b0cb.js": "763cd3b34dfa4600ebb9d9588ec7116988e98920",
     "/frecciadidiana/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",

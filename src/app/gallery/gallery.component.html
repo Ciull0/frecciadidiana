@@ -4,6 +4,6 @@
     </div>
     <div class="otherPics">
         <img  [src]="data.cover" class="pics" alt="">
-        <img *ngFor="let img of data.content" (click)="mainpic = img.pic" [src]="img.pic" class="pics" alt="">
+        <img *ngFor="let img of data.content" (click)="changePic(img.pic)" [src]="img.pic" class="pics" alt="">
     </div>
 </div>

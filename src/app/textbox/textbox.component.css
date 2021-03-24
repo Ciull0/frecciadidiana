@@ -1,4 +1,35 @@
 .textbox{
     text-align: center;
     padding: 0px 5% 10% 5%;
+    max-height: 100%;
+    background-color: var(--primary);
+    border-radius: 20px;
+}
+
+.titleText{
+    display: inline-block;
+    background-color: var(--nearPrimary);
+    padding: 5px;
+    transform: skew(350deg,350deg);
+    font-size: 3rem;
+    box-shadow: 10px 20px var(--contrast);
+}
+
+.text{
+    display: inline-block;
+    padding: 5px;
+    background-color: var(--contrast);
+    box-shadow: 5px 10px var(--nearPrimary);
+}
+
+.subTitleText{
+    font-size: 1.5rem;
+}
+
+.bodyText{
+    font-size: 1rem;
+}
+
+.footerText{
+    font-size: 1.3rem;
 }
