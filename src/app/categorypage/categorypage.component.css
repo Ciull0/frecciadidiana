@@ -13,4 +13,32 @@
 .hero-product{
     height: 100%;
     max-height: inherit;
+    box-shadow: 0.1rem 0.2rem var(--primary);
+}
+
+.heroCard:hover{
+    animation: hover;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+}
+
+.hero-product:hover{
+    animation: hover;
+    animation-timing-function: cubic-bezier(.51,0,.8,.47);
+    animation-duration: 0.7s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes hover{
+    from { 
+        z-index: 1000;
+        box-shadow: 0px 0px;
+    }
+    to {
+        align-items: center;
+        box-shadow: 1rem 2rem var(--primary);
+        height: 120%;
+        width: 120%;
+        z-index: 1000;
+    }
 }

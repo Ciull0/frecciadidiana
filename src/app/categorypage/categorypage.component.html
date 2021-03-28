@@ -1,5 +1,5 @@
 <div class="row">
     <div *ngFor="let elem of content.content" class="hero-product">
-        <app-hero [data]="elem" [routerLink]="elem.link"></app-hero>
+        <app-hero class="heroCard" [data]="elem" [routerLink]="elem.link"></app-hero>
     </div>
 </div>
