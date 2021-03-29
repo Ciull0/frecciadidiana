@@ -1,6 +1,13 @@
 # Frecciadidiana [WORK IN PROGRESS]
 
-## Angular Based Website, with only Vanilla Css, CMS ready. 
+## Angular Based PWA, with only Vanilla Css, CMS ready. 
+
+# Status:
+- Dinamically load content from jsons
+- Installable PWA with Angular Service Worker
+- Colors as global CSS variables in main CSS file
+- Responsive, Mobile First
+- Automatic Build with GitHub Action
 
 # GOALS: 
 - Make a WhatsApp Business based E-Commerce (ideal from small, low-budget and personalized item)
