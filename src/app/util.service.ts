@@ -7,6 +7,7 @@ import { Injectable } from '@angular/core';
 export class UtilService {
 
   private cachedContent = [];
+  test=0;
 
   constructor(
     private http: HttpClient
@@ -16,7 +17,6 @@ export class UtilService {
   getContent(content:string){
 
     let address = "assets/content/"+content+".json";
-    console.log(address);
     return new Promise( (resolve, reject) =>{
 
       //checks if element is cached

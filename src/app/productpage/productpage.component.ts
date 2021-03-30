@@ -21,10 +21,7 @@ export class ProductpageComponent implements OnInit {
     this.router.params.subscribe( url=>{
       
       this.util.getContent(url.prodotto).then( data=>{
-        
         this.content = data;
-        console.log(this.content)
-
       })
       
     })

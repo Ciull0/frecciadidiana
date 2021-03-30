@@ -2,9 +2,11 @@
     position: fixed;
     z-index: 1000;
     bottom: 0px;
-    width: 100%;
     height: 5%;
     display: grid;
+    width: 100%;
+    gap: 0.3rem;
+    background-color: var(--nearPrimary);
     grid-template-columns: repeat(auto-fit,minmax(50px,1fr));
 }
 
@@ -18,13 +20,20 @@ object{
     justify-content: center;
     align-items: center;
     text-align: center;
-    border: 1px solid black;
-    background-color: var(--primary);
+    border-radius: 10px;
     overflow: hidden;
+}
+
+.col:hover{
+    border: 3px solid var(--contrast);
 }
 
 .nav-logo{
     height: 100%;
     object-fit: cover;
     color: white;
+}
+
+.selected{
+    background-color: var(--contrast) !important;
 }

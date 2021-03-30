@@ -1,14 +1,29 @@
 <nav class="navbar_mobile">
-    <div class="col" routerLink="/">
+    <div class="col" routerLink="" *ngIf="currentPage != '/'">
         <object routerLink="/" type="image/svg+xml" class="nav-logo" data="assets/logos/home.svg" alt=""></object>
     </div>
-    <div class="col" routerLink="/collezione">
+    <div class="col selected" routerLink="" *ngIf="currentPage == '/'">
+        <object routerLink="/" type="image/svg+xml" class="nav-logo" data="assets/logos/home.svg" alt=""></object>
+    </div>
+
+    <div class="col" routerLink="/collezione" *ngIf="!currentPage.includes('collezione')">
         <object routerLink="/collezione" type="image/svg+xml" class="nav-logo" data="assets/logos/storefront.svg" alt=""></object>
     </div>
-    <div class="col" routerLink="/amati">
+    <div class="col selected" routerLink="collezione" *ngIf="currentPage.includes('collezione')">
+        <object routerLink="/collezione" type="image/svg+xml" class="nav-logo" data="assets/logos/storefront.svg" alt=""></object>
+    </div>
+
+    <div class="col" routerLink="/amati" *ngIf="!currentPage.includes('amati')">
         <object routerLink="/amati" type="image/svg+xml" class="nav-logo" data="assets/logos/favorite.svg" alt=""></object>
     </div>
-    <div class="col" routerLink="/parliamo">
+    <div class="col selected" routerLink="/amati" *ngIf="currentPage.includes('amati')">
+        <object routerLink="/amati" type="image/svg+xml" class="nav-logo" data="assets/logos/favorite.svg" alt=""></object>
+    </div>
+
+    <div class="col" routerLink="/parliamo" *ngIf="!currentPage.includes('parliamo')">
+        <object routerLink="/parliamo" pointer-events: none type="image/svg+xml" class="nav-logo" data="assets/logos/connect.svg" alt=""></object>
+    </div>
+    <div class="col selected" routerLink="/parliamo" *ngIf="currentPage.includes('parliamo')">
         <object routerLink="/parliamo" pointer-events: none type="image/svg+xml" class="nav-logo" data="assets/logos/connect.svg" alt=""></object>
     </div>
 </nav>

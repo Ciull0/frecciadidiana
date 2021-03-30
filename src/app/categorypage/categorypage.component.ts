@@ -19,7 +19,6 @@ export class CategorypageComponent implements OnInit {
       this.util.getContent(urlInfo.categoria).then( data=>{
       
         this.content = data;
-        console.log(this.content)
       })
     })
     
