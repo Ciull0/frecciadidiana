@@ -5,10 +5,10 @@
     <div>
         <h3 class="subTitleText text">{{elem.subtitle}}</h3>
     </div>
-    <div>
+    <div class="body">
         <p class="bodyText text">{{elem.body}}</p>
     </div>
-    <div>
+    <div [routerLink]="elem.link_interno">
         <h5 class="footerText text">{{elem.footer}}</h5>
     </div>
 </article>

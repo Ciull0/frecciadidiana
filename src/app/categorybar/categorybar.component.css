@@ -14,6 +14,8 @@
     text-align: center;
     background-color: var(--primary);
     padding: 10px;
+    font-size: 2rem;
+    font-family: 'Syne Mono', monospace;
     transform: skew(355deg,355deg);
     box-shadow: 10px 20px var(--nearPrimary);
 }

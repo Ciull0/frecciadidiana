@@ -5,6 +5,7 @@ html,body{
     margin: 0px;
     padding: 0px;
     overflow-x: hidden !important;
+    font-family: 'Shippori Mincho', serif;
     background-color: var(--nearContrast);
 }
 :root {
@@ -18,5 +19,9 @@ html,body{
     --contrast: #ffef9fff;
     --primary: #c1fba4ff;
     --nearPrimary: #7bf1a8ff;
+
+    --whitePolaroid: #f4f4f4;
+    --shadowPolaroid: #e4e4e4;
+
 
   }

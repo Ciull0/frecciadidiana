@@ -3,7 +3,7 @@
         <img class="imgBig" [src]="mainpic" alt="">
     </div>
     <div class="otherPics">
-        <img  [src]="data.cover" class="pics" alt="">
+        <img  [src]="data.cover" class="pics" (click)="changePic(data.cover)" alt="">
         <img *ngFor="let img of data.content" (click)="changePic(img.pic)" [src]="img.pic" class="pics" alt="">
     </div>
 </div>

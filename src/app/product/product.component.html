@@ -5,7 +5,7 @@
     <div class="card-body">
         <h3 class="card-title" [routerLink]="data.link_interno">{{data.title}}</h3>
         <h5 class="card-subtitle" [routerLink]="data.link_interno">{{data.subtitle}}</h5>
-        <p class="card-price" [routerLink]="data.link_interno">{{data.price}}</p>
-        <a class="waBtn" href="{{data.link_esterno}}" target="_blank">Personalizza</a>
+        <p class="card-price" [routerLink]="data.link_interno">{{data.price}} Euro</p>
+        <a class="waBtn" href="{{data.link_esterno}}" target="_blank">{{data.footer}}</a>
     </div>
 </div>

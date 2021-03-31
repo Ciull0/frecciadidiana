@@ -1,10 +1,10 @@
 .card{
     padding: 5%;
     padding-bottom: 20px;
-    background-color: var(--primary);
+    background-color: var(--whitePolaroid);
     border-radius: 10px;
     
-    box-shadow: 10px 20px var(--nearPrimary);
+    box-shadow: 10px 20px var(--shadowPolaroid);
 }
 
 
@@ -27,25 +27,31 @@ img{
     margin-top: 10px;
     padding: 5px;
     text-align: center;
-    font-size: 1.7rem;
+    font-size: 2rem;
+    font-family: 'Syne Mono', monospace;
     background-color: var(--contrast);
     box-shadow: 5px 10px var(--nearContrast);
 }
 .card-subtitle{
     text-align: center;
-    font-size: 1rem;
+    font-size: 1.3rem;
+    font-weight: bolder;
+    font-style: italic;
 }
 .card-price{
     text-align: center;
     font-size: 1.2rem;
+    font-weight: bold;
 }
 
 .waBtn{
     display: inline-block;
     text-decoration: none;
     color: black;
-    font-size: 1.2rem;
-    padding: 0.5rem;
+    font-size: 1.3rem;
+    font-style: italic;
+    font-family: 'Syne Mono', monospace;
+    padding: 0.1rem;
     border-radius: 5px;
     transform: skew(355deg,355deg);
     box-shadow: 5px 10px var(--nearContrast);
