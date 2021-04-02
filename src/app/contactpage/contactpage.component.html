@@ -1,1 +1,8 @@
-<p>contactpage works!</p>
+<div class="row">
+    <div class="hero">
+        <app-hero [data]="content"></app-hero>
+    </div>
+    <div class="text">
+        <app-textbox [data]="content.content[0]"></app-textbox>
+    </div>
+</div>

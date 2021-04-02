@@ -1,4 +1,9 @@
 .textbox{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
+    gap: 1rem;
+    align-items: center;
+    justify-items: center;
     text-align: center;
     padding: 0px 5% 10% 5%;
     max-height: 100%;
@@ -39,7 +44,16 @@
     box-shadow: 5px 10px var(--shadowPolaroid);
 }
 
-.footerText{
+.buttonLink{
+    display: inline-block;
+    width: fit-content;
+    height: fit-content;
+    padding: 5px;
+}
+
+.btnText{
+    color: black;
+    background-color: var(--nearPrimary);
     font-family: 'Syne Mono', monospace;
     font-size: 1.3rem;
 }

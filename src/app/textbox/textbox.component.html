@@ -1,14 +1,14 @@
 <article *ngFor="let elem of data.content" class="textbox">
-    <div>
+    <div *ngIf="elem.title.length > 0">
         <h1 class="titleText">{{elem.title}}</h1>
     </div>
-    <div>
+    <div *ngIf="elem.subtitle.length > 0">
         <h3 class="subTitleText text">{{elem.subtitle}}</h3>
     </div>
-    <div class="body">
+    <div class="body" *ngIf="elem.body.length > 10">
         <p class="bodyText text">{{elem.body}}</p>
     </div>
-    <div [routerLink]="elem.link_interno">
-        <h5 class="footerText text">{{elem.footer}}</h5>
-    </div>
+    <a class="buttonLink" href="{{elem.link_esterno}}" target="_blank" *ngIf="elem.footer.length > 0">
+        <h5 class="btnText text">{{elem.footer}}</h5>
+    </a>
 </article>

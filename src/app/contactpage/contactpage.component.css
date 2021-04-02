@@ -1,0 +1,28 @@
+.row{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
+    max-height: 95vh !important;
+    gap: 1rem;
+    align-items: center;
+    justify-items: center;
+}
+
+.hero, .text{
+    height: 95vh;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.logo{
+    height: 100%;
+    object-fit: cover;
+}
+
+@media screen and  (max-width: 300px){
+    .row{
+        scroll-snap-type: y mandatory;
+    }
+    .hero,.text{
+        scroll-snap-align: start;
+    }
+}
