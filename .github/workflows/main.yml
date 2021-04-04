@@ -9,22 +9,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
-    - name: Delete branch
-      uses: dawidd6/action-delete-branch@v3
-      with:
-        github_token: ${{github.token}}
-        branches: gh-pages
     - name: All things angular
       uses: AhsanAyaz/angular-deploy-gh-pages-actions@v1.3.1
       with:
-        deploy_branch: build
+        deploy_branch: gh-pages
         build_configuration: production # The build environment for the app. please look configurations in your angular.json
         base_href: /frecciadidiana/   # make sure this corresponds to https://<your_username>.github.io/<base_href>/
         angular_dist_build_folder: dist/frecciadidiana
         github_access_token: ${{ secrets.BUILD_KEY }}
-    - name: Deploy
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./build
