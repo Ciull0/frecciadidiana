@@ -14,7 +14,7 @@ jobs:
       uses: dawidd6/action-delete-branch@v3
       with:
         github_token: ${{github.token}}
-        branches: build
+        branches: gh-pages
     - name: All things angular
       uses: AhsanAyaz/angular-deploy-gh-pages-actions@v1.3.1
       with:
