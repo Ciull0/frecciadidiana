@@ -1,9 +1,4 @@
 .textbox{
-    display: grid;
-    grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
-    gap: 1rem;
-    align-items: center;
-    justify-items: center;
     text-align: center;
     padding: 0px 5% 10% 5%;
     max-height: 100%;
