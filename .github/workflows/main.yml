@@ -5,9 +5,7 @@ on:
       - master
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
     - name: All things angular
       uses: AhsanAyaz/angular-deploy-gh-pages-actions@v1.3.1
