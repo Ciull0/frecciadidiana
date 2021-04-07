@@ -3,7 +3,7 @@
 </header>
 <main>
     <div *ngFor="let elem of content.content">
-        <container-element [ngSwitch]="elem.type">
+        <section [ngSwitch]="elem.type">
             <!-- the same view can be shown in more than one case --> 
             <article *ngSwitchCase="'hero'">
                 <app-hero [data]="elem"></app-hero>
@@ -19,7 +19,7 @@
             <some-other-element *ngSwitchCase="match_expression_3">...</some-other-element>
             default case when there are no matches -->
             <h1 *ngSwitchDefault><mark>{{elem.title}}</mark></h1>  
-        </container-element>
+        </section>
         <br><br>
     </div>
 </main>

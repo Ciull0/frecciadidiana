@@ -1,9 +1,8 @@
 .card{
     padding: 5%;
-    padding-bottom: 20px;
+    padding-bottom: 30px;
     background-color: var(--whitePolaroid);
     border-radius: 10px;
-    
     box-shadow: 10px 20px var(--shadowPolaroid);
 }
 
@@ -42,6 +41,10 @@ img{
     text-align: center;
     font-size: 1.2rem;
     font-weight: bold;
+    font-family: 'Syne Mono', monospace;
+    transform: skew(355deg,355deg);
+    background-color: var(--primary);
+    box-shadow: 5px 10px var(--nearPrimary);
 }
 
 .waBtn{

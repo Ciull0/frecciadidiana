@@ -21,11 +21,14 @@ export class UtilService {
 
       //checks if element is cached
 
+      /*
       for(let page of this.cachedContent ){
         if(page.id == content){
           resolve(page);
         }
       }
+
+      */
 
       //if not cached, loads it anche caches it
 
