@@ -7,10 +7,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+    - uses: actions/checkout@v2
     - name: All things angular
       uses: AhsanAyaz/angular-deploy-gh-pages-actions@v1.3.1
       with:
         deploy_branch: gh-pages
         build_configuration: production # The build environment for the app. please look configurations in your angular.json
         base_href: /frecciadidiana/   # make sure this corresponds to https://<your_username>.github.io/<base_href>/
+        angular_dist_build_folder: dist/frecciadidiana
         github_access_token: ${{ secrets.BUILD_KEY }}
