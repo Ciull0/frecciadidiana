@@ -1,15 +1,15 @@
 .textbox{
     text-align: center;
-    padding: 0px 5% 10% 5%;
+    padding: 10px 10px 15px 10px;
     max-height: 100%;
     background-color: var(--primary);
     border-radius: 20px;
+    margin: 10px 10px 5px 10px;
 }
 
 .titleText{
     display: inline-block;
     background-color: var(--nearPrimary);
-    padding: 5px;
     transform: skew(350deg,350deg);
     font-size: 3rem;
     font-family: 'Syne Mono', monospace;
@@ -18,7 +18,6 @@
 
 .text{
     display: inline-block;
-    padding: 5px;
     background-color: var(--contrast);
     box-shadow: 5px 10px var(--nearPrimary);
 }
@@ -43,7 +42,6 @@
     display: inline-block;
     width: fit-content;
     height: fit-content;
-    padding: 5px;
 }
 
 .btnText{
