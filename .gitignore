@@ -7,6 +7,11 @@
 # Only exists if Bazel was run
 /bazel-out
 
+#firebase-related
+/.firebase
+.firebaserc
+firebase.json
+
 # dependencies
 /node_modules
 
