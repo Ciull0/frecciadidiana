@@ -1,6 +1,6 @@
 {
     "id": "collezione",
-    "cover" : "assets/img/emma_10.jpg",
+    "cover" : "",
     "title" : "Hero Slogan",
     "subtitle" : "Hero Slogan is also Card Title",
     "url": "/",
@@ -8,7 +8,7 @@
     "content" : [
         {
             "type" : "hero",
-            "cover" :"assets/img/emma_10.jpg",
+            "cover" :"assets/img/emma_trasparent_18.png",
             "title":"T-Shirt",
             "subtitle" : "",
             "body" : "",
@@ -19,7 +19,7 @@
         },
         {
             "type" : "hero",
-            "cover" :"assets/img/emma_10.jpg",
+            "cover" :"assets/img/emma_trasparent_todo1.jpg",
             "title":"Maniche Lunghe",
             "subtitle" : "",
             "body" : "",
@@ -30,7 +30,7 @@
         },
         {
             "type" : "hero",
-            "cover" :"assets/img/emma_10.jpg",
+            "cover" :"assets/img/emma_trasparent_todo3.jpg",
             "title":"Felpe",
             "subtitle" : "",
             "body" : "",
@@ -41,7 +41,7 @@
         },
         {
             "type" : "hero",
-            "cover" :"assets/img/emma_10.jpg",
+            "cover" :"assets/img/emma_trasparent_todo2.jpg",
             "title":"Top",
             "subtitle" : "",
             "body" : "",
@@ -52,7 +52,7 @@
         },
         {
             "type" : "hero",
-            "cover" :"assets/img/emma_10.jpg",
+            "cover" :"assets/img/emma_trasparent_todo6.jpg",
             "title":"Calzini",
             "subtitle" : "",
             "body" : "",
@@ -63,7 +63,7 @@
         },
         {
             "type" : "hero",
-            "cover" :"assets/img/emma_10.jpg",
+            "cover" :"assets/img/emma_trasparent_todo5.jpg",
             "title":"Borse",
             "subtitle" : "",
             "body" : "",
@@ -74,7 +74,7 @@
         },
         {
             "type" : "hero",
-            "cover" :"assets/img/emma_10.jpg",
+            "cover" :"assets/img/emma_trasparent_todo4.jpg",
             "title":"Fasce",
             "subtitle" : "",
             "body" : "",
@@ -85,7 +85,7 @@
         },
         {
             "type" : "hero",
-            "cover" :"assets/img/emma_10.jpg",
+            "cover" :"assets/img/emma_trasparent_todo7.jpg",
             "title":"Altro",
             "subtitle" : "",
             "body" : "",
