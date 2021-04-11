@@ -1,6 +1,6 @@
 {
     "id": "home",
-    "cover" : "assets/img/emma_10.jpg",
+    "cover" : "assets/img/emma_220.jpg",
     "title" : "Freccia Di Diana",
     "subtitle" : "Hero Slogan is also Card Title",
     "url": "/",
@@ -8,14 +8,14 @@
     "content" : [
         {
             "type" : "text",
-            "cover" : "assets/img/emma_10.jpg",
-            "title":"Categoria 3",
+            "cover" : "",
+            "title":"",
             "subtitle" : "",
             "body" : "",
             "link": "collezione",
             "content":[
                 {
-                    "pic" : "assets/img/emma_2.jpg",
+                    "pic" : "",
                     "title" : "Tie Dye e Non Solo",
                     "price" : "15.5",
                     "subtitle" : "Abbigliamento Personalizzato dalle Voste Idee",
@@ -36,7 +36,7 @@
             "link": "collezione",
             "content":[
                 {
-                    "pic" : "assets/img/emma_2.jpg",
+                    "pic" : "assets/img/emma_trasparent_18.png",
                     "title" : "T-Shirt",
                     "price" : "12",
                     "subtitle" : "Maglietta Personalizzata Con Tie Dye, Disegni e Scritte",
@@ -47,7 +47,7 @@
                     "link_esterno" : "https://wa.me/p/3331877643595001/393318324057"
                 },
                 {
-                    "pic" : "assets/img/emma_3.jpg",
+                    "pic" : "assets/img/emma_trasparent_todo1.jpg",
                     "title" : "Maglia Maniche Lunghe",
                     "price" : "15",
                     "subtitle" : "Maglia Personalizzata Con Tie Dye, Disegni e Scritte",
@@ -58,7 +58,7 @@
                     "link_esterno" : "https://wa.me/p/3331877643595001/393318324057"
                 },
                 {
-                    "pic" : "assets/img/emma_4.jpg",
+                    "pic" : "assets/img/emma_trasparent_todo3.jpg",
                     "title" : "Felpa",
                     "price" : "17",
                     "subtitle" : "Felpa Personalizzata Con Tie Dye, Disegni e Scritte",
@@ -69,7 +69,7 @@
                     "link_esterno" : "https://wa.me/p/3331877643595001/393318324057"
                 },
                 {
-                    "pic" : "assets/img/emma_5.jpg",
+                    "pic" : "assets/img/emma_trasparent_todo2.jpg",
                     "title" : "Top",
                     "price" : "12",
                     "subtitle" : "Top Personalizzato Con Tie Dye, Disegni e Scritte",
@@ -91,7 +91,7 @@
             "link": "collezione",
             "content":[
                 {
-                    "pic" : "assets/img/emma_2.jpg",
+                    "pic" : "assets/img/emma_trasparent_todo6.jpg",
                     "title" : "Calzini",
                     "price" : "4",
                     "subtitle" : "Calzini Personalizzati",
@@ -102,7 +102,7 @@
                     "link_esterno" : "https://wa.me/p/3331877643595001/393318324057"
                 },
                 {
-                    "pic" : "assets/img/emma_3.jpg",
+                    "pic" : "assets/img/emma_trasparent_todo5.jpg",
                     "title" : "Borse",
                     "price" : "10",
                     "subtitle" : "Borse Personalizzate Con Tie Dye, Disegni e Scritte",
@@ -113,7 +113,7 @@
                     "link_esterno" : "https://wa.me/p/3331877643595001/393318324057"
                 },
                 {
-                    "pic" : "assets/img/emma_4.jpg",
+                    "pic" : "assets/img/emma_trasparent_todo4.jpg",
                     "title" : "Fasce",
                     "price" : "5",
                     "subtitle" : "Fasce Personalizzate",
@@ -124,7 +124,7 @@
                     "link_esterno" : "https://wa.me/p/3331877643595001/393318324057"
                 },
                 {
-                    "pic" : "assets/img/emma_5.jpg",
+                    "pic" : "assets/img/emma_trasparent_todo7.jpg",
                     "title" : "Tutto Quel Che Vuoi",
                     "price" : "69.42",
                     "subtitle" : "Personalizzo quello che Vuoi!",

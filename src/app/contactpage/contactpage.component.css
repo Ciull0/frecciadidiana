@@ -18,11 +18,17 @@
     object-fit: cover;
 }
 
-@media screen and  (max-width: 300px){
+@media screen and  (max-width: 400px){
     .row{
         scroll-snap-type: y mandatory;
+        gap: 0;
     }
-    .hero,.text{
+    .text{
         scroll-snap-align: start;
+        height: 65vh;
+    }
+    .hero{
+        scroll-snap-align: start;
+        height: 30vh;
     }
 }
