@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1618263534339,
+  "timestamp": 1618263646846,
   "index": "/frecciadidiana/index.html",
   "assetGroups": [
     {
@@ -121,7 +121,7 @@
     "/frecciadidiana/assets/content/home.json": "d6bf78a044cdc4a0bb4323b695c024db78ad6217",
     "/frecciadidiana/assets/content/manicheLunghe.json": "f5527ae51e3da99f174be16b4f68f538867f5320",
     "/frecciadidiana/assets/content/navbar.json": "197f2f7de58d64955da7d103d5b531fe6476a5bf",
-    "/frecciadidiana/assets/content/parliamo.json": "3f209cefb790eb052de2c767c529eeffca15c872",
+    "/frecciadidiana/assets/content/parliamo.json": "fccbd983ef24162a7f6cf27e73f7a0267b6c6aac",
     "/frecciadidiana/assets/content/top.json": "741753fdeaf53c923f7671182252dbd839464419",
     "/frecciadidiana/assets/content/tshirt.json": "440c1502256f2d7390b9adeb5b395f523b3c8eb6",
     "/frecciadidiana/assets/icons/android-launchericon-96-96.png": "6aba98af8c8fae2332803f201524cd1c20dbc2ba",
