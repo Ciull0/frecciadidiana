@@ -20,11 +20,11 @@
     {
       "name": "assets",
       "installMode": "prefetch",
-      "updateMode": "lazy",
+      "updateMode": "prefetch",
       "resources": {
         "files": [
           "/assets/**",
-          "/*.(eot|svg|cur|jpg|png|webp|gif|otf|ttf|woff|woff2|ani)"
+          "/*.(eot|cur|jpg|png|webp|gif|otf|ttf|woff|woff2|ani)"
         ]
       }
     }

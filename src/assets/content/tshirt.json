@@ -63,7 +63,7 @@
                     "pic" : "assets/img/emma_2.jpg",
                     "title" : "T-Shirt",
                     "subtitle" : "Personalizzami Come Vuoi!",
-                    "body":"Nunc efficitur mi ac massa aliquam laoreet. Nullam ex purus, ultricies vel bibendum quis, rutrum molestie dui. Vestibulum et leo eros. Sed sed tortor in justo dignissim semper. Praesent vestibulum, turpis nec aliquet sodales, justo nisl convallis sem, nec tristique nulla lectus sed nisl. Etiam malesuada ex ut libero placerat, eu tincidunt tortor sagittis. Sed blandit justo nec consequat viverra. Nunc euismod nisl gravida convallis porta. Maecenas et faucibus erat. Nulla eget tortor cursus, venenatis turpis sit amet, accumsan tortor. Praesent magna nibh, commodo sit amet porttitor vel, fermentum id dolor. ",
+                    "body":"Nunc efficitur mi ac massa aliquam *laoreet. Nullam ex purus*, ultricies vel bibendum quis, rutrum molestie dui. $Vestibulum et leo eros. Sed sed$ tortor in justo dignissim semper. _Praesent vestibulum, turpis nec aliquet sodales_, justo nisl convallis sem, nec tristique nulla lectus sed nisl. (red)Etiam malesuada ex ut libero(red) placerat, eu tincidunt tortor sagittis. Sed blandit justo nec consequat viverra. Nunc euismod nisl gravida convallis porta. Maecenas et faucibus erat. Nulla eget tortor cursus, venenatis turpis sit amet, accumsan tortor. Praesent magna nibh, commodo sit amet porttitor vel, fermentum id dolor. ",
                     "footer": "Acquistami con Whatsapp",
                     "link_interno":"/",
                     "link_esterno":"https://wa.me/p/3331877643595001/393318324057",

@@ -12,6 +12,8 @@
     height: 50%;
     object-fit: cover;
     border-radius: 10%;
+    background-color: var(--primary);
+    box-shadow: 5px 10px var(--nearPrimary);
 }
 img{
     width: 100%;
