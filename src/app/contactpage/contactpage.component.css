@@ -18,7 +18,7 @@
     object-fit: cover;
 }
 
-@media screen and  (max-width: 400px){
+@media screen and  (max-width: 450px){
     .row{
         scroll-snap-type: y mandatory;
         gap: 0;

@@ -17,8 +17,7 @@
 .hero-product{
     height: 100%;
     max-height: inherit;
-    border: 3px solid transparent;
-    box-shadow: 0.1rem 0.2rem var(--primary);
+    box-shadow: 0.1rem 0.2rem var(--nearPrimary);
     --delay: 100ms;
 }
 

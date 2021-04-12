@@ -8,7 +8,7 @@
     "content" : [
         {
             "type" : "hero",
-            "cover" :"assets/img/emma_trasparent_18.png",
+            "cover" :"assets/img/emma_trasparent_8.png",
             "title":"T-Shirt",
             "subtitle" : "",
             "body" : "",
@@ -19,7 +19,7 @@
         },
         {
             "type" : "hero",
-            "cover" :"assets/img/emma_trasparent_todo1.jpg",
+            "cover" :"assets/img/emma_trasparent_1.png",
             "title":"Maniche Lunghe",
             "subtitle" : "",
             "body" : "",
@@ -30,7 +30,7 @@
         },
         {
             "type" : "hero",
-            "cover" :"assets/img/emma_trasparent_todo3.jpg",
+            "cover" :"assets/img/emma_trasparent_3.png",
             "title":"Felpe",
             "subtitle" : "",
             "body" : "",
@@ -41,7 +41,7 @@
         },
         {
             "type" : "hero",
-            "cover" :"assets/img/emma_trasparent_todo2.jpg",
+            "cover" :"assets/img/emma_trasparent_9.png",
             "title":"Top",
             "subtitle" : "",
             "body" : "",
@@ -52,7 +52,7 @@
         },
         {
             "type" : "hero",
-            "cover" :"assets/img/emma_trasparent_todo6.jpg",
+            "cover" :"assets/img/emma_trasparent_6.png",
             "title":"Calzini",
             "subtitle" : "",
             "body" : "",
@@ -63,7 +63,7 @@
         },
         {
             "type" : "hero",
-            "cover" :"assets/img/emma_trasparent_todo5.jpg",
+            "cover" :"assets/img/emma_trasparent_5.png",
             "title":"Borse",
             "subtitle" : "",
             "body" : "",
@@ -74,7 +74,7 @@
         },
         {
             "type" : "hero",
-            "cover" :"assets/img/emma_trasparent_todo4.jpg",
+            "cover" :"assets/img/emma_trasparent_4.png",
             "title":"Fasce",
             "subtitle" : "",
             "body" : "",
@@ -85,7 +85,7 @@
         },
         {
             "type" : "hero",
-            "cover" :"assets/img/emma_trasparent_todo7.jpg",
+            "cover" :"assets/img/emma_trasparent_7.png",
             "title":"Altro",
             "subtitle" : "",
             "body" : "",
