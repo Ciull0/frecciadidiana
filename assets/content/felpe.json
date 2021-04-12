@@ -1,0 +1,121 @@
+{
+    "id": "felpe",
+    "cover" : "assets/img/emma_10.jpg",
+    "title" : "Hero Slogan",
+    "subtitle" : "Hero Slogan is also Card Title",
+    "url": "/",
+    "metatags" : "homepage but also hero",
+    "content" : [
+        {
+            "type" : "gallery",
+            "cover" : "assets/img/emma_189.jpg",
+            "title":"Categoria 1",
+            "subtitle" : "",
+            "body" : "",
+            "link": "",
+            "content":[
+                {
+                    "pic" : "assets/img/emma_198.jpg",
+                    "title" : "",
+                    "subtitle" : "",
+                    "body":"",
+                    "footer": "",
+                    "metatags" : "",
+                    "link" : ""
+                },
+                {
+                    "pic" : "assets/img/emma_123.jpg",
+                    "title" : "",
+                    "subtitle" : "",
+                    "body":"",
+                    "footer": "",
+                    "metatags" : "",
+                    "link" : ""
+                },
+                {
+                    "pic" : "assets/img/emma_142.jpg",
+                    "title" : "",
+                    "subtitle" : "",
+                    "body":"",
+                    "footer": "",
+                    "metatags" : "",
+                    "link" : ""
+                }
+            ]
+        },
+        {
+            "type" : "text",
+            "title":"Categoria 4",
+            "subtitle" : "",
+            "body" : "",
+            "link": "collezione",
+            "content":[
+                {
+                    "pic" : "assets/img/emma_2.jpg",
+                    "title" : "Felpe",
+                    "subtitle" : "Personalizzami Come Vuoi!",
+                    "body":"Scegli la tua *Felpa*! ££Sono disponibili tutte le *taglie* per donna, uomo  e bambini.£Scegli la *fantasia* che più ti piace: vari  motivi *tie dye* e colori sfumati, ma anche *disegni* e *scritte*.£Libera la tua creatività e contattami per realizzare insieme la tua *idea.*",
+                    "footer": "Acquistami con Whatsapp",
+                    "link_interno":"/",
+                    "link_esterno":"https://wa.me/p/3331877643595001/393318324057",
+                    "metatags" : "",
+                    "link" : "/collezione/maglia"
+                }
+            ]
+        },
+        {
+            "type" : "bar",
+            "cover" : "assets/img/emma_10.jpg",
+            "title":"Potrebbe Piacerti",
+            "subtitle" : "",
+            "body" : "",
+            "link": "collezione",
+            "content":[
+                {
+                    "pic" : "assets/img/emma_trasparent_6.png",
+                    "title" : "Calzini",
+                    "price" : "4",
+                    "subtitle" : "Calzini Personalizzati",
+                    "body" : "",
+                    "footer" : "Personalizzali con Me",
+                    "metatags" : "",
+                    "link_interno" : "/collezione/calzini",
+                    "link_esterno" : "https://wa.me/p/3331877643595001/393318324057"
+                },
+                {
+                    "pic" : "assets/img/emma_trasparent_1.png",
+                    "title" : "Maglia Maniche Lunghe",
+                    "price" : "15",
+                    "subtitle" : "Maglia Personalizzata Con Tie Dye, Disegni e Scritte",
+                    "body" : "",
+                    "footer" : "Personalizzala Con Whatsapp",
+                    "metatags" : "",
+                    "link_interno" : "/collezione/manicheLunghe",
+                    "link_esterno" : "https://wa.me/p/3331877643595001/393318324057"
+                },
+                {
+                    "pic" : "assets/img/emma_trasparent_8.png",
+                    "title" : "T-Shirt",
+                    "price" : "12",
+                    "subtitle" : "T-Shirt Personalizzata Con Tie Dye, Disegni e Scritte",
+                    "body" : "",
+                    "footer" : "Personalizzala Con Whatsapp",
+                    "metatags" : "",
+                    "link_interno" : "/collezione/tshirt",
+                    "link_esterno" : "https://wa.me/p/3331877643595001/393318324057"
+                },
+                {
+                    "pic" : "assets/img/emma_trasparent_5.png",
+                    "title" : "Borse",
+                    "price" : "10",
+                    "subtitle" : "Borse Personalizzate Con Tie Dye, Disegni e Scritte",
+                    "body" : "",
+                    "footer" : "Personalizzala Con Whatsapp",
+                    "metatags" : "",
+                    "link_interno" : "/collezione/borsa",
+                    "link_esterno" : "https://wa.me/p/3331877643595001/393318324057"
+                }
+            ]
+        }
+    ]  
+}
