@@ -12,14 +12,15 @@
           "/manifest.webmanifest",
           "/*.css",
           "/*.js",
-          "/*.json"
+          "/*.json",
+          "/*.svg"
         ]
       }
     },
     {
       "name": "assets",
       "installMode": "prefetch",
-      "updateMode": "prefetch",
+      "updateMode": "lazy",
       "resources": {
         "files": [
           "/assets/**",

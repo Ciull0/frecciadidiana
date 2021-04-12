@@ -8,41 +8,14 @@
     "content" : [
         {
             "type" : "gallery",
-            "cover" : "assets/img/emma_12.jpg",
+            "cover" : "assets/img/emma_175.jpg",
             "title":"Categoria 1",
             "subtitle" : "",
             "body" : "",
             "link": "",
             "content":[
                 {
-                    "pic" : "assets/img/emma_2.jpg",
-                    "title" : "",
-                    "subtitle" : "",
-                    "body":"",
-                    "footer": "",
-                    "metatags" : "",
-                    "link" : ""
-                },
-                {
-                    "pic" : "assets/img/emma_3.jpg",
-                    "title" : "",
-                    "subtitle" : "",
-                    "body":"",
-                    "footer": "",
-                    "metatags" : "",
-                    "link" : ""
-                },
-                {
-                    "pic" : "assets/img/emma_4.jpg",
-                    "title" : "",
-                    "subtitle" : "",
-                    "body":"",
-                    "footer": "",
-                    "metatags" : "",
-                    "link" : ""
-                },
-                {
-                    "pic" : "assets/img/emma_5.jpg",
+                    "pic" : "assets/img/emma_177.jpg",
                     "title" : "",
                     "subtitle" : "",
                     "body":"",
@@ -81,7 +54,7 @@
             "link": "collezione",
             "content":[
                 {
-                    "pic" : "assets/img/emma_2.jpg",
+                    "pic" : "assets/img/emma_trasparent_6.png",
                     "title" : "Calzini",
                     "price" : "4",
                     "subtitle" : "Calzini Personalizzati",
@@ -92,7 +65,7 @@
                     "link_esterno" : "https://wa.me/p/3331877643595001/393318324057"
                 },
                 {
-                    "pic" : "assets/img/emma_3.jpg",
+                    "pic" : "assets/img/emma_trasparent_1.png",
                     "title" : "Maglia Maniche Lunghe",
                     "price" : "15",
                     "subtitle" : "Maglia Personalizzata Con Tie Dye, Disegni e Scritte",
@@ -103,7 +76,7 @@
                     "link_esterno" : "https://wa.me/p/3331877643595001/393318324057"
                 },
                 {
-                    "pic" : "assets/img/emma_4.jpg",
+                    "pic" : "assets/img/emma_trasparent_3.png",
                     "title" : "Felpa",
                     "price" : "17",
                     "subtitle" : "Felpa Personalizzata Con Tie Dye, Disegni e Scritte",
@@ -114,7 +87,7 @@
                     "link_esterno" : "https://wa.me/p/3331877643595001/393318324057"
                 },
                 {
-                    "pic" : "assets/img/emma_3.jpg",
+                    "pic" : "assets/img/emma_trasparent_5.png",
                     "title" : "Borse",
                     "price" : "10",
                     "subtitle" : "Borse Personalizzate Con Tie Dye, Disegni e Scritte",
