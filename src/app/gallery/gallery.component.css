@@ -27,11 +27,13 @@
     width: 100%;
     height: 100%;
     object-fit: cover;
-    box-shadow: 5px 10px var(--contrast);
+    background-color: var(--primary);
+    box-shadow: 5px 10px var(--nearPrimary);
 }
 .pics{
     height: 4rem;
     margin: 0.3rem;
     border-radius: 5px;
-    box-shadow: 5px 10px var(--contrast);
+    background-color: var(--primary);
+    box-shadow: 5px 10px var(--nearPrimary);
 }

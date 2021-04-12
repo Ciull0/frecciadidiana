@@ -38,10 +38,3 @@
     padding-top: 0px;
     padding-bottom: 20px;
 }
-.sep{
-    height: 0px;
-    border-top: 10px;
-    border-bottom: 0px;
-    border-color: var(--primary);
-    border-style: dotted;
-}

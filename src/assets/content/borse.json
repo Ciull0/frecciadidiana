@@ -63,12 +63,12 @@
                     "pic" : "assets/img/emma_2.jpg",
                     "title" : "Borse",
                     "subtitle" : "Personalizzami Come Vuoi!",
-                    "body":"Nunc efficitur mi ac massa aliquam laoreet. Nullam ex purus, ultricies vel bibendum quis, rutrum molestie dui. Vestibulum et leo eros. Sed sed tortor in justo dignissim semper. Praesent vestibulum, turpis nec aliquet sodales, justo nisl convallis sem, nec tristique nulla lectus sed nisl. Etiam malesuada ex ut libero placerat, eu tincidunt tortor sagittis. Sed blandit justo nec consequat viverra. Nunc euismod nisl gravida convallis porta. Maecenas et faucibus erat. Nulla eget tortor cursus, venenatis turpis sit amet, accumsan tortor. Praesent magna nibh, commodo sit amet porttitor vel, fermentum id dolor. ",
+                    "body":"Scegli la tua *Borsa*! ££Perfetta per il *tempo libero* ma anche per metterci libri o tutto quel che vuoi, ma senza mai essere banale! £Scegli la *fantasia* che più ti piace: vari  motivi *tie dye* e colori sfumati, ma anche *disegni* e *scritte*. £Libera la tua creatività e contattami per realizzare insieme la tua idea. ££PS: Che ne dici di *frasi* di canzoni, film e libri ? Scegli le tue *citazioni* preferite.",
                     "footer": "Acquistami con Whatsapp",
                     "link_interno":"/",
                     "link_esterno":"https://wa.me/p/3331877643595001/393318324057",
                     "metatags" : "",
-                    "link" : "collezione/maglia"
+                    "link" : "/collezione/maglia"
                 }
             ]
         },
@@ -88,7 +88,7 @@
                     "body" : "",
                     "footer" : "Personalizzali con Me",
                     "metatags" : "",
-                    "link_interno" : "collezione/calzini",
+                    "link_interno" : "/collezione/calzini",
                     "link_esterno" : "https://wa.me/p/3331877643595001/393318324057"
                 },
                 {
@@ -99,7 +99,7 @@
                     "body" : "",
                     "footer" : "Personalizzala Con Whatsapp",
                     "metatags" : "",
-                    "link_interno" : "collezione/manicheLunghe",
+                    "link_interno" : "/collezione/manicheLunghe",
                     "link_esterno" : "https://wa.me/p/3331877643595001/393318324057"
                 },
                 {
@@ -110,7 +110,7 @@
                     "body" : "",
                     "footer" : "Personalizzala Con Whatsapp",
                     "metatags" : "",
-                    "link_interno" : "collezione/felpa",
+                    "link_interno" : "/collezione/felpa",
                     "link_esterno" : "https://wa.me/p/3331877643595001/393318324057"
                 },
                 {
@@ -121,7 +121,7 @@
                     "body" : "",
                     "footer" : "Personalizzala Con Whatsapp",
                     "metatags" : "",
-                    "link_interno" : "collezione/tshirt",
+                    "link_interno" : "/collezione/tshirt",
                     "link_esterno" : "https://wa.me/p/3331877643595001/393318324057"
                 }
             ]

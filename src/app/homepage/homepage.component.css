@@ -5,9 +5,14 @@
 main{
     padding-left: 0.5rem;
     padding-right: 0.5rem;
-    display: grid;
-    gap: 1rem;
-    grid-template-columns: repeat(auto-fit,minmax(200px,3fr));
+}
+
+.sep{
+    height: 0px;
+    border-top: 10px;
+    border-bottom: 0px;
+    border-color: var(--primary);
+    border-style: dotted;
 }
 
 @keyframes start {

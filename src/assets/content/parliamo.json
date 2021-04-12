@@ -17,12 +17,12 @@
                     "pic" : "assets/img/emma_2.jpg",
                     "title" : "",
                     "subtitle" : "",
-                    "body":"Contattami quando vuoi, sono disponibile a qualunque domanda! Puoi anche propormi un lavoro completamente personalizzato, sarò lieta di aiutarti nella Tua creazione!",
+                    "body":"Qualcosa su di me: ££Ciao sono *Emma* e  fin da piccola mi piaceva *personalizzare* i miei vestiti e  oggetti, rendere tutto *unico e speciale*, in modo da rappresentarmi ed esprimermi. ££Col tempo ho imparato sempre di più *nuove tecniche* per farlo, finchè non ho deciso di diventare la *Freccia di Diana* per rendere disponibile anche agli altri questa mia *passione*, ed arricchire i miei lavori  con *nuove idee* e progetti. ££La cosa che amo di più, oltre a colorare tutto, è *realizzare qualcosa* che abbiamo immaginato, e farlo mi rende molto felice.",
                     "footer": "",
                     "link_interno":"",
                     "link_esterno":"",
                     "metatags" : "",
-                    "link" : "collezione/maglia"
+                    "link" : "/collezione/maglia"
                 },
                 {
                     "pic" : "assets/img/emma_2.jpg",
@@ -33,7 +33,7 @@
                     "link_interno":"parliamo",
                     "link_esterno":"tel:3486569418",
                     "metatags" : "",
-                    "link" : "collezione/maglia"
+                    "link" : "/collezione/maglia"
                 },
                 {
                     "pic" : "assets/img/emma_2.jpg",
@@ -42,9 +42,9 @@
                     "body":"",
                     "footer": "frecciadidiana@gmail.com",
                     "link_interno":"parliamo",
-                    "link_esterno":"tel:3486569418",
+                    "link_esterno":"mailto:3486569418",
                     "metatags" : "",
-                    "link" : "collezione/maglia"
+                    "link" : "/collezione/maglia"
                 },
                 {
                     "pic" : "assets/img/emma_2.jpg",
@@ -55,7 +55,7 @@
                     "link_interno":"parliamo",
                     "link_esterno":"https://www.instagram.com/lafrecciadidiana/",
                     "metatags" : "",
-                    "link" : "collezione/maglia"
+                    "link" : "/collezione/maglia"
                 }
             ]
         }
