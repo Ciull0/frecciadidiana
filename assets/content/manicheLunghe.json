@@ -8,12 +8,30 @@
     "content" : [
         {
             "type" : "gallery",
-            "cover" : "assets/img/emma_209.jpg",
+            "cover" : "assets/img/emma_3.jpg",
             "title":"",
             "subtitle" : "",
             "body" : "",
             "link": "",
             "content":[
+                {
+                    "pic" : "assets/img/emma_2.jpg",
+                    "title" : "",
+                    "subtitle" : "",
+                    "body":"",
+                    "footer": "",
+                    "metatags" : "",
+                    "link" : ""
+                },
+                {
+                    "pic" : "assets/img/emma_209.jpg",
+                    "title" : "",
+                    "subtitle" : "",
+                    "body":"",
+                    "footer": "",
+                    "metatags" : "",
+                    "link" : ""
+                },
                 {
                     "pic" : "assets/img/emma_215.jpg",
                     "title" : "",
