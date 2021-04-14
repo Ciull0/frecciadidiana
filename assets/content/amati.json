@@ -1,98 +1,98 @@
 {
-    "id": "home",
-    "cover" : "assets/img/emma_12.jpg",
-    "title" : "Hero Slogan",
-    "subtitle" : "Hero Slogan is also Card Title",
-    "url": "/",
-    "metatags" : "homepage but also hero",
-    "content" : [
-        {
-            "type" : "hero",
-            "cover" :"assets/img/emma_12.jpg",
-            "title":"T-Shirt",
-            "subtitle" : "",
-            "body" : "",
-            "link": "/collezione/tshirt",
-            "content":[
-                
-            ]
-        },
-        {
-            "type" : "hero",
-            "cover" :"assets/img/emma_12.jpg",
-            "title":"Maniche Lunghe",
-            "subtitle" : "",
-            "body" : "",
-            "link": "/collezione/manicheLunghe",
-            "content":[
-                
-            ]
-        },
-        {
-            "type" : "hero",
-            "cover" :"assets/img/emma_12.jpg",
-            "title":"Felpe",
-            "subtitle" : "",
-            "body" : "",
-            "link": "/collezione/Felpe",
-            "content":[
-                
-            ]
-        },
-        {
-            "type" : "hero",
-            "cover" :"assets/img/emma_12.jpg",
-            "title":"Top",
-            "subtitle" : "",
-            "body" : "",
-            "link": "/collezione/top",
-            "content":[
-                
-            ]
-        },
-        {
-            "type" : "hero",
-            "cover" :"assets/img/emma_12.jpg",
-            "title":"Calzini",
-            "subtitle" : "",
-            "body" : "",
-            "link": "/collezione/calzini",
-            "content":[
-                
-            ]
-        },
-        {
-            "type" : "hero",
-            "cover" :"assets/img/emma_12.jpg",
-            "title":"Borse",
-            "subtitle" : "",
-            "body" : "",
-            "link": "/collezione/borse",
-            "content":[
-                
-            ]
-        },
-        {
-            "type" : "hero",
-            "cover" :"assets/img/emma_12.jpg",
-            "title":"Fasce",
-            "subtitle" : "",
-            "body" : "",
-            "link": "/collezione/Fasce",
-            "content":[
-                
-            ]
-        },
-        {
-            "type" : "hero",
-            "cover" :"assets/img/emma_12.jpg",
-            "title":"Altro",
-            "subtitle" : "",
-            "body" : "",
-            "link": "/collezione/altro",
-            "content":[
-                
-            ]
-        }
-    ]  
+  "id": "home",
+  "cover": "assets/img/emma_12.jpg",
+  "title": "HomePage",
+  "subtitle": "Hero Slogan is also Card Title",
+  "url": "/",
+  "metatags": "homepage but also hero",
+  "content": [
+    {
+      "type": "hero",
+      "cover": "assets/img/emma_12.jpg",
+      "title": "T-Shirt",
+      "subtitle": "",
+      "body": "",
+      "link": "/collezione/tshirt",
+      "content": [
+
+      ]
+    },
+    {
+      "type": "hero",
+      "cover": "assets/img/emma_12.jpg",
+      "title": "Maniche Lunghe",
+      "subtitle": "",
+      "body": "",
+      "link": "/collezione/manicheLunghe",
+      "content": [
+
+      ]
+    },
+    {
+      "type": "hero",
+      "cover": "assets/img/emma_12.jpg",
+      "title": "Felpe",
+      "subtitle": "",
+      "body": "",
+      "link": "/collezione/Felpe",
+      "content": [
+
+      ]
+    },
+    {
+      "type": "hero",
+      "cover": "assets/img/emma_12.jpg",
+      "title": "Top",
+      "subtitle": "",
+      "body": "",
+      "link": "/collezione/top",
+      "content": [
+
+      ]
+    },
+    {
+      "type": "hero",
+      "cover": "assets/img/emma_12.jpg",
+      "title": "Calzini",
+      "subtitle": "",
+      "body": "",
+      "link": "/collezione/calzini",
+      "content": [
+
+      ]
+    },
+    {
+      "type": "hero",
+      "cover": "assets/img/emma_12.jpg",
+      "title": "Borse",
+      "subtitle": "",
+      "body": "",
+      "link": "/collezione/borse",
+      "content": [
+
+      ]
+    },
+    {
+      "type": "hero",
+      "cover": "assets/img/emma_12.jpg",
+      "title": "Fasce",
+      "subtitle": "",
+      "body": "",
+      "link": "/collezione/Fasce",
+      "content": [
+
+      ]
+    },
+    {
+      "type": "hero",
+      "cover": "assets/img/emma_12.jpg",
+      "title": "Altro",
+      "subtitle": "",
+      "body": "",
+      "link": "/collezione/altro",
+      "content": [
+
+      ]
+    }
+  ]
 }
