@@ -16,18 +16,6 @@
         {
           "pic": "",
           "title": "",
-          "subtitle": "Sito Web Realizzato Da Daniele Ciulli",
-          "body": "",
-          "footer": "danieleciulli.it",
-          "metatags": "",
-          "link": "",
-          "price": "",
-          "link_interno": "",
-          "link_esterno": "www.danieleciulli.it"
-        },
-        {
-          "pic": "",
-          "title": "",
           "subtitle": "",
           "body": "Qualcosa su di me: ££Ciao sono *Emma* e  fin da piccola mi piaceva *personalizzare* i miei vestiti e  oggetti, rendere tutto *unico e speciale*, in modo da rappresentarmi ed esprimermi. ££Col tempo ho imparato sempre di più *nuove tecniche* per farlo, finchè non ho deciso di diventare la *Freccia di Diana* per rendere disponibile anche agli altri questa mia *passione*, ed arricchire i miei lavori  con *nuove idee* e progetti. ££La cosa che amo di più, oltre a colorare tutto, è *realizzare qualcosa* che abbiamo immaginato, e farlo mi rende molto felice.",
           "footer": "",
@@ -67,6 +55,18 @@
           "link_esterno": "https://www.instagram.com/lafrecciadidiana/",
           "metatags": "",
           "link": "/collezione/maglia"
+        },
+        {
+          "pic": "",
+          "title": "",
+          "subtitle": "Sito Web Realizzato Da Daniele Ciulli",
+          "body": "",
+          "footer": "danieleciulli.it",
+          "metatags": "",
+          "link": "",
+          "price": "",
+          "link_interno": "",
+          "link_esterno": "www.danieleciulli.it"
         }
       ]
     }
