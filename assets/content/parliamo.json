@@ -65,8 +65,8 @@
           "metatags": "",
           "link": "",
           "price": "",
-          "link_interno": "",
-          "link_esterno": "www.danieleciulli.it"
+          "link_interno": "/parliamo",
+          "link_esterno": "https://www.danieleciulli.it"
         }
       ]
     }
