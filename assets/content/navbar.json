@@ -1,7 +1,7 @@
 {
-  "id": "home",
+  "id": "navbar",
   "cover": "assets/img/emma_10.jpg",
-  "title": "Homepage",
+  "title": "Navbar",
   "subtitle": "Hero Slogan is also Card Title",
   "url": "/",
   "metatags": "homepage but also hero",
