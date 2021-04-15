@@ -1,74 +1,62 @@
 {
-  "id": "parliamo",
-  "cover": "assets/img/emma_75.jpg",
-  "title": "Parliamo",
-  "subtitle": "",
-  "url": "/",
-  "metatags": "homepage but also hero",
-  "content": [
-    {
-      "type": "text",
-      "title": "",
-      "subtitle": "",
-      "body": "",
-      "link": "parliamo",
-      "content": [
+    "id": "parliamo",
+    "cover" : "assets/img/emma_75.jpg",
+    "title" : "Parliamo",
+    "subtitle" : "",
+    "url": "/",
+    "metatags" : "homepage but also hero",
+    "content" : [
         {
-          "pic": "",
-          "title": "",
-          "subtitle": "",
-          "body": "Qualcosa su di me: ££Ciao sono *Emma* e  fin da piccola mi piaceva *personalizzare* i miei vestiti e  oggetti, rendere tutto *unico e speciale*, in modo da rappresentarmi ed esprimermi. ££Col tempo ho imparato sempre di più *nuove tecniche* per farlo, finchè non ho deciso di diventare la *Freccia di Diana* per rendere disponibile anche agli altri questa mia *passione*, ed arricchire i miei lavori  con *nuove idee* e progetti. ££La cosa che amo di più, oltre a colorare tutto, è *realizzare qualcosa* che abbiamo immaginato, e farlo mi rende molto felice.",
-          "footer": "",
-          "link_esterno": "",
-          "metatags": "",
-          "link": "/collezione/maglia"
-        },
-        {
-          "pic": "",
-          "title": "",
-          "subtitle": "Telefono",
-          "body": "",
-          "footer": "3486569418",
-          "link_interno": "/parliamo",
-          "link_esterno": "tel:3486569418",
-          "metatags": "",
-          "link": "/collezione/maglia"
-        },
-        {
-          "pic": "",
-          "title": "",
-          "subtitle": "Mail",
-          "body": "",
-          "footer": "buytiedye@gmail.com",
-          "link_interno": "/parliamo",
-          "link_esterno": "mailto:buytiedye@gmail.com",
-          "metatags": "",
-          "link": "/collezione/maglia"
-        },
-        {
-          "pic": "",
-          "title": "",
-          "subtitle": "Instagram",
-          "body": "",
-          "footer": "@lafrecciadidiana",
-          "link_interno": "/parliamo",
-          "link_esterno": "https://www.instagram.com/lafrecciadidiana/",
-          "metatags": "",
-          "link": "/collezione/maglia"
-        },
-        {
-          "pic": "",
-          "title": "",
-          "subtitle": "Sito Web Realizzato Da Daniele Ciulli",
-          "body": "",
-          "footer": "danieleciulli.it",
-          "metatags": "",
-          "link": "",
-          "price": "",
-          "link_interno": "/parliamo",
-          "link_esterno": "https://www.danieleciulli.it"
+            "type" : "text",
+            "title":"",
+            "subtitle" : "",
+            "body" : "",
+            "link": "parliamo",
+            "content":[
+                {
+                    "pic" : "assets/img/emma_2.jpg",
+                    "title" : "",
+                    "subtitle" : "",
+                    "body":"Qualcosa su di me: ££Ciao sono *Emma* e  fin da piccola mi piaceva *personalizzare* i miei vestiti e  oggetti, rendere tutto *unico e speciale*, in modo da rappresentarmi ed esprimermi. ££Col tempo ho imparato sempre di più *nuove tecniche* per farlo, finchè non ho deciso di diventare la *Freccia di Diana* per rendere disponibile anche agli altri questa mia *passione*, ed arricchire i miei lavori  con *nuove idee* e progetti. ££La cosa che amo di più, oltre a colorare tutto, è *realizzare qualcosa* che abbiamo immaginato, e farlo mi rende molto felice.",
+                    "footer": "",
+                    "link_esterno":"",
+                    "metatags" : "",
+                    "link" : "/collezione/maglia"
+                },
+                {
+                    "pic" : "assets/img/emma_2.jpg",
+                    "title" : "",
+                    "subtitle" : "Telefono",
+                    "body":"",
+                    "footer": "3486569418",
+                    "link_interno":"/parliamo",
+                    "link_esterno":"tel:3486569418",
+                    "metatags" : "",
+                    "link" : "/collezione/maglia"
+                },
+                {
+                    "pic" : "assets/img/emma_2.jpg",
+                    "title" : "",
+                    "subtitle" : "Mail",
+                    "body":"",
+                    "footer": "buytiedye@gmail.com",
+                    "link_interno":"/parliamo",
+                    "link_esterno":"mailto:buytiedye@gmail.com",
+                    "metatags" : "",
+                    "link" : "/collezione/maglia"
+                },
+                {
+                    "pic" : "assets/img/emma_2.jpg",
+                    "title" : "",
+                    "subtitle" : "Instagram",
+                    "body":"",
+                    "footer": "@lafrecciadidiana",
+                    "link_interno":"/parliamo",
+                    "link_esterno":"https://www.instagram.com/lafrecciadidiana/",
+                    "metatags" : "",
+                    "link" : "/collezione/maglia"
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]  
 }
