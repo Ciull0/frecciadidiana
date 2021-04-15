@@ -10,7 +10,7 @@
 - Automatic Build with GitHub Action
 
 # GOALS: 
-- Make a WhatsApp Business based E-Commerce (ideal from small, low-budget and personalized item)
-- Integrate with a Free CMS (Forestry.io) while i continue development
+- Make a WhatsApp Business based E-Commerce (ideal from small, low-budget and personalized item) [DONE]
+- Integrate with a Free CMS (Forestry.io) while i continue development [DONE]
 - Create a CMS from scratch, using Firebase from Google Cloud to update the site
-- Make the site content-indipendent
+- Make the site content-indipendent [DONE]
