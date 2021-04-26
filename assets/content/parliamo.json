@@ -14,17 +14,6 @@
       "link": "parliamo",
       "content": [
         {
-          "pic": "",
-          "title": "",
-          "subtitle": "Sito Web Realizzato da Daniele Ciulli",
-          "body": "",
-          "footer": "Info E Contatti",
-          "metatags": "",
-          "link": "",
-          "price": "",
-          "link_esterno": "tel:3313095219"
-        },
-        {
           "pic": "assets/img/emma_2.jpg",
           "title": "",
           "subtitle": "",
@@ -66,6 +55,17 @@
           "link_esterno": "https://www.instagram.com/lafrecciadidiana/",
           "metatags": "",
           "link": "/collezione/maglia"
+        },
+        {
+          "pic": "",
+          "title": "",
+          "subtitle": "Sito Web Realizzato da Daniele Ciulli",
+          "body": "",
+          "footer": "Info E Contatti",
+          "metatags": "",
+          "link": "",
+          "price": "",
+          "link_esterno": "tel:3313095219"
         }
       ]
     }
